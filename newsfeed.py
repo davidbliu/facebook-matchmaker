@@ -3,7 +3,7 @@ import urllib2
 import json
 import pickle
 from Queue import *
-
+import yaml
 data = yaml.load(open('config.yaml', 'r'))
 oauth_access_token = data['oauth_access_token']
 """
@@ -294,30 +294,30 @@ def do_round(assignments, m_preferences, f_preferences):
 	return {"assignments":assignments, "m_preferences":m_preferences}
 
 assignments = stable_marriage(data)
-with open("female_opt_stable_marriage.txt", "w") as outfile:
+with open("spring/female_opt_stable_marriage.txt", "w") as outfile:
 	text = ""
 	for assignment in assignments.keys():
 		text+= assignment+" and "+assignments[assignment]+"\n"
 	outfile.write(text.encode('utf-8'))
 
-with open("most_posts.txt", "w") as outfile:
+with open("spring/most_posts.txt", "w") as outfile:
 	outfile.write(most_posts_txt.encode('utf-8'))
-with open("popular_authors.txt", "w") as outfile:
+with open("spring/popular_authors.txt", "w") as outfile:
 	outfile.write(pop_authors_txt.encode('utf-8'))
-with open("popular_comments.txt", "w") as outfile:
+with open("spring/popular_comments.txt", "w") as outfile:
 	outfile.write(pop_comments_txt.encode('utf-8'))
 
-with open("random.txt", "w") as outfile:
+with open("spring/random.txt", "w") as outfile:
 	outfile.write(pop_comments_txt.encode('utf-8'))
 
-with open("post_like_ratios.txt", "w") as outfile:
+with open("spring/post_like_ratios.txt", "w") as outfile:
 	outfile.write(post_like_ratio_txt.encode('utf-8'))
-with open("like_ranks.txt", "w") as outfile:
+with open("spring/like_ranks.txt", "w") as outfile:
 	outfile.write(like_rank_txt.encode('utf-8'))
-with open("percent_liked_rank_txt.txt", "w") as outfile:
+with open("spring/percent_liked_rank_txt.txt", "w") as outfile:
 	outfile.write(percent_liked_rank_txt.encode('utf-8'))
 
-with open("people.txt", "w") as outfile:
+with open("spring/people.txt", "w") as outfile:
 	plist = ""
 	for person in data['likes'].keys():
 		plist+=person+"\n"

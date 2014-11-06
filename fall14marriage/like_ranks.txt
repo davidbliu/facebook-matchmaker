@@ -1,0 +1,1908 @@
+Camron Savarani
+	Angela Tang:  0.222222222222
+	Ella Gao:  0.111111111111
+	Rohin Jethani:  0.111111111111
+	Margaret Chu:  0.111111111111
+	Alison Tang:  0.111111111111
+	Phillip Tran:  0.111111111111
+	Kelley Hwang:  0.111111111111
+	Raymond Tong:  0.111111111111
+
+Jeffrey Shih
+	Jae Hoonhoon Kim:  0.1
+	Sammy Tong:  0.1
+	Ty Lai:  0.1
+	Haruko Ayabe:  0.1
+	Wesley Snipes Trương:  0.0666666666667
+	Keith Kuk:  0.0666666666667
+	Camron Savarani:  0.0666666666667
+	Christine Shih:  0.0333333333333
+	Angela Tang:  0.0333333333333
+	Rohin Jethani:  0.0333333333333
+	Ella Gao:  0.0333333333333
+	Evelyn Zhai:  0.0333333333333
+	Amanda Chin:  0.0333333333333
+	Aditya Subbarao:  0.0333333333333
+	Betina Yin:  0.0333333333333
+	Janet Dong:  0.0333333333333
+	Daniel Du:  0.0333333333333
+	Shreya Chatterjee:  0.0333333333333
+	Patrick Chang:  0.0333333333333
+
+Patrick Chang
+	Andrea Kwan:  0.172413793103
+	Haruko Ayabe:  0.103448275862
+	Bonnie Xiao:  0.0689655172414
+	Christine Shih:  0.0689655172414
+	Willa Peng:  0.0689655172414
+	Albert Lin:  0.0689655172414
+	Jae Hoonhoon Kim:  0.0344827586207
+	Evelyn Wang:  0.0344827586207
+	Sammy Tong:  0.0344827586207
+	Phillip Tran:  0.0344827586207
+	Joey Choi:  0.0344827586207
+	Aditya Subbarao:  0.0344827586207
+	Winky Wong:  0.0344827586207
+	Julie Xiao:  0.0344827586207
+	Evelyn Zhai:  0.0344827586207
+	Alison Tang:  0.0344827586207
+	Ty Lai:  0.0344827586207
+	Keith Kuk:  0.0344827586207
+	Camron Savarani:  0.0344827586207
+
+Michael Randall
+	Patrick Chang:  0.093023255814
+	Aditya Subbarao:  0.0697674418605
+	Ty Lai:  0.0697674418605
+	Andrea Kwan:  0.0697674418605
+	Raymond Tong:  0.0697674418605
+	Wesley Snipes Trương:  0.046511627907
+	Rohin Jethani:  0.046511627907
+	Keith Kuk:  0.046511627907
+	Hammad Khan:  0.046511627907
+	Christine Shih:  0.046511627907
+	Alison Tang:  0.046511627907
+	Lucy Chen:  0.0232558139535
+	Sammy Tong:  0.0232558139535
+	Jae Hoonhoon Kim:  0.0232558139535
+	Ella Gao:  0.0232558139535
+	Winky Wong:  0.0232558139535
+	Phillip Tran:  0.0232558139535
+	Shreya Chatterjee:  0.0232558139535
+	Amanda Chin:  0.0232558139535
+	Christina Ong:  0.0232558139535
+	Mimi Tam:  0.0232558139535
+	Willa Peng:  0.0232558139535
+	Keien Ohta:  0.0232558139535
+	Chynna Wong:  0.0232558139535
+	Bonnie Xiao:  0.0232558139535
+	Julie Xiao:  0.0232558139535
+
+Angela Liang
+	Jae Hoonhoon Kim:  0.3125
+	Alison Tang:  0.1875
+	Winky Wong:  0.125
+	Patrick Chang:  0.125
+	Amanda Chin:  0.0625
+	Julie Xiao:  0.0625
+	Margaret Chu:  0.0625
+	Ty Lai:  0.0625
+
+Alex Wang
+	Jae Hoonhoon Kim:  0.0652173913043
+	Haruko Ayabe:  0.0652173913043
+	Willa Peng:  0.0579710144928
+	Aditya Subbarao:  0.0507246376812
+	Rohin Jethani:  0.0434782608696
+	Eunice Lee:  0.0434782608696
+	Sammy Tong:  0.036231884058
+	Janet Dong:  0.036231884058
+	Bonnie Xiao:  0.036231884058
+	Patrick Chang:  0.036231884058
+	Winky Wong:  0.0289855072464
+	Ty Lai:  0.0289855072464
+	Andrea Kwan:  0.0289855072464
+	Hunter He:  0.0289855072464
+	Alison Tang:  0.0289855072464
+	Ella Gao:  0.0217391304348
+	Wesley Snipes Trương:  0.0217391304348
+	Albert Lin:  0.0217391304348
+	Angela Tang:  0.0217391304348
+	Keith Kuk:  0.0217391304348
+	Christine Shih:  0.0217391304348
+	Camron Savarani:  0.0217391304348
+	Alice Sun:  0.0144927536232
+	Kevin Zhang:  0.0144927536232
+	Eric Park:  0.0144927536232
+	Phillip Tran:  0.0144927536232
+	Amanda Chin:  0.0144927536232
+	Betina Yin:  0.0144927536232
+	Raymond Tong:  0.0144927536232
+	Julie Xiao:  0.0144927536232
+	Logan Moy:  0.0144927536232
+	Daniel Du:  0.00724637681159
+	Jesar Shah:  0.00724637681159
+	Johnny Wang:  0.00724637681159
+	Kelley Hwang:  0.00724637681159
+	Kevin Yin:  0.00724637681159
+	Yadanar Oo:  0.00724637681159
+	Hammad Khan:  0.00724637681159
+	Evelyn Wang:  0.00724637681159
+	Christina Ong:  0.00724637681159
+	Mimi Tam:  0.00724637681159
+	Keien Ohta:  0.00724637681159
+	Chynna Wong:  0.00724637681159
+	Sophie Wan:  0.00724637681159
+	Margaret Chu:  0.00724637681159
+
+Logan Moy
+	Sammy Tong:  0.125
+	Rohin Jethani:  0.0714285714286
+	Jae Hoonhoon Kim:  0.0535714285714
+	Haruko Ayabe:  0.0535714285714
+	Janet Dong:  0.0535714285714
+	Patrick Chang:  0.0535714285714
+	Alice Sun:  0.0357142857143
+	Ty Lai:  0.0357142857143
+	Andrea Kwan:  0.0357142857143
+	Christine Shih:  0.0357142857143
+	Hunter He:  0.0357142857143
+	Margaret Chu:  0.0357142857143
+	Julie Xiao:  0.0357142857143
+	Camron Savarani:  0.0357142857143
+	Evelyn Zhai:  0.0178571428571
+	Aditya Subbarao:  0.0178571428571
+	Wesley Snipes Trương:  0.0178571428571
+	Jesar Shah:  0.0178571428571
+	Albert Lin:  0.0178571428571
+	Kelley Hwang:  0.0178571428571
+	Kevin Zhang:  0.0178571428571
+	Joey Choi:  0.0178571428571
+	Winky Wong:  0.0178571428571
+	Phillip Tran:  0.0178571428571
+	Shreya Chatterjee:  0.0178571428571
+	Keith Kuk:  0.0178571428571
+	Evelyn Wang:  0.0178571428571
+	Amanda Chin:  0.0178571428571
+	Betina Yin:  0.0178571428571
+	Sophie Wan:  0.0178571428571
+	Bonnie Xiao:  0.0178571428571
+
+William Yan
+	Shreya Chatterjee:  0.5
+	Rohin Jethani:  0.5
+
+Judy Jiang
+	Bonnie Xiao:  0.153846153846
+	Jae Hoonhoon Kim:  0.153846153846
+	Ella Gao:  0.0769230769231
+	Janet Dong:  0.0769230769231
+	Christina Ong:  0.0769230769231
+	Alison Tang:  0.0769230769231
+	Mimi Tam:  0.0769230769231
+	Ty Lai:  0.0769230769231
+	Andrea Kwan:  0.0769230769231
+	Eunice Lee:  0.0769230769231
+	Patrick Chang:  0.0769230769231
+
+Alison Tang
+	Jae Hoonhoon Kim:  0.0884353741497
+	Andrea Kwan:  0.0884353741497
+	Aditya Subbarao:  0.047619047619
+	Raymond Tong:  0.047619047619
+	Bonnie Xiao:  0.047619047619
+	Sammy Tong:  0.0408163265306
+	Patrick Chang:  0.0408163265306
+	Camron Savarani:  0.0408163265306
+	Eunice Lee:  0.0340136054422
+	Hammad Khan:  0.0340136054422
+	Ella Gao:  0.0272108843537
+	Albert Lin:  0.0272108843537
+	Ty Lai:  0.0272108843537
+	Haruko Ayabe:  0.0272108843537
+	Janet Dong:  0.0272108843537
+	Phillip Tran:  0.0204081632653
+	Christine Shih:  0.0204081632653
+	Amanda Chin:  0.0204081632653
+	Willa Peng:  0.0204081632653
+	Keien Ohta:  0.0204081632653
+	Kris Kris:  0.0136054421769
+	Wesley Snipes Trương:  0.0136054421769
+	Angela Tang:  0.0136054421769
+	Rohin Jethani:  0.0136054421769
+	Winky Wong:  0.0136054421769
+	Eric Park:  0.0136054421769
+	Keith Kuk:  0.0136054421769
+	Betina Yin:  0.0136054421769
+	Julie Xiao:  0.0136054421769
+	Logan Moy:  0.0136054421769
+	Angela Liang:  0.0136054421769
+	Daniel Du:  0.00680272108844
+	Evelyn Zhai:  0.00680272108844
+	Alice Sun:  0.00680272108844
+	Kelley Hwang:  0.00680272108844
+	Kevin Yin:  0.00680272108844
+	Kevin Zhang:  0.00680272108844
+	Joey Choi:  0.00680272108844
+	Shreya Chatterjee:  0.00680272108844
+	Christina Ong:  0.00680272108844
+	Mimi Tam:  0.00680272108844
+	Evelyn Wang:  0.00680272108844
+	Chynna Wong:  0.00680272108844
+	Sophie Wan:  0.00680272108844
+	Hunter He:  0.00680272108844
+	Margaret Chu:  0.00680272108844
+
+Austin Chen
+	Kevin Zhang:  0.2
+	Aditya Subbarao:  0.2
+	Keith Kuk:  0.2
+	Ella Gao:  0.2
+	Rohin Jethani:  0.2
+
+Julie Xiao
+	Willa Peng:  0.104166666667
+	Sammy Tong:  0.0833333333333
+	Haruko Ayabe:  0.0833333333333
+	Jae Hoonhoon Kim:  0.0625
+	Ty Lai:  0.0625
+	Andrea Kwan:  0.0625
+	Aditya Subbarao:  0.0416666666667
+	Rohin Jethani:  0.0416666666667
+	Christine Shih:  0.0416666666667
+	Amanda Chin:  0.0416666666667
+	Raymond Tong:  0.0416666666667
+	Bonnie Xiao:  0.0416666666667
+	Alison Tang:  0.0416666666667
+	Wesley Snipes Trương:  0.0208333333333
+	Johnny Wang:  0.0208333333333
+	Kevin Yin:  0.0208333333333
+	Ella Gao:  0.0208333333333
+	Eric Park:  0.0208333333333
+	Phillip Tran:  0.0208333333333
+	Keith Kuk:  0.0208333333333
+	Janet Dong:  0.0208333333333
+	Margaret Chu:  0.0208333333333
+	Logan Moy:  0.0208333333333
+	Patrick Chang:  0.0208333333333
+	Camron Savarani:  0.0208333333333
+
+Margaret Chu
+	Jae Hoonhoon Kim:  0.0909090909091
+	Amanda Chin:  0.0909090909091
+	Ty Lai:  0.0909090909091
+	Haruko Ayabe:  0.0909090909091
+	Bonnie Xiao:  0.0606060606061
+	Winky Wong:  0.0606060606061
+	Patrick Chang:  0.0606060606061
+	Camron Savarani:  0.0606060606061
+	Kevin Zhang:  0.030303030303
+	Hunter He:  0.030303030303
+	Ella Gao:  0.030303030303
+	Rohin Jethani:  0.030303030303
+	Sammy Tong:  0.030303030303
+	Janet Dong:  0.030303030303
+	Wesley Snipes Trương:  0.030303030303
+	Eric Park:  0.030303030303
+	Phillip Tran:  0.030303030303
+	Logan Moy:  0.030303030303
+	Chynna Wong:  0.030303030303
+	Andrea Kwan:  0.030303030303
+	Eunice Lee:  0.030303030303
+
+Julia Pei
+	Angela Tang:  0.333333333333
+	Kevin Zhang:  0.166666666667
+	Phillip Tran:  0.166666666667
+	Andrea Kwan:  0.166666666667
+	Camron Savarani:  0.166666666667
+
+Sonny Chen
+	Andrea Kwan:  0.333333333333
+	Ty Lai:  0.166666666667
+	Sophie Wan:  0.166666666667
+	Sammy Tong:  0.166666666667
+	Haruko Ayabe:  0.166666666667
+
+Hunter He
+	Hammad Khan:  0.0882352941176
+	Jae Hoonhoon Kim:  0.078431372549
+	Haruko Ayabe:  0.078431372549
+	Andrea Kwan:  0.0588235294118
+	Sammy Tong:  0.0490196078431
+	Ty Lai:  0.0490196078431
+	Aditya Subbarao:  0.0392156862745
+	Albert Lin:  0.0392156862745
+	Rohin Jethani:  0.0392156862745
+	Eric Park:  0.0294117647059
+	Eunice Lee:  0.0294117647059
+	Janet Dong:  0.0294117647059
+	Willa Peng:  0.0294117647059
+	Bonnie Xiao:  0.0294117647059
+	Alison Tang:  0.0294117647059
+	Amanda Chin:  0.0196078431373
+	Margaret Chu:  0.0196078431373
+	Logan Moy:  0.0196078431373
+	Patrick Chang:  0.0196078431373
+	Camron Savarani:  0.0196078431373
+	Ella Gao:  0.00980392156863
+	Daniel Du:  0.00980392156863
+	Evelyn Zhai:  0.00980392156863
+	Wesley Snipes Trương:  0.00980392156863
+	Jesar Shah:  0.00980392156863
+	Alice Sun:  0.00980392156863
+	Evelyn Wang:  0.00980392156863
+	Kevin Yin:  0.00980392156863
+	Kevin Zhang:  0.00980392156863
+	Yadanar Oo:  0.00980392156863
+	Winky Wong:  0.00980392156863
+	Phillip Tran:  0.00980392156863
+	Keith Kuk:  0.00980392156863
+	Christine Shih:  0.00980392156863
+	Christina Ong:  0.00980392156863
+	Betina Yin:  0.00980392156863
+	Mimi Tam:  0.00980392156863
+	Sophie Wan:  0.00980392156863
+	Raymond Tong:  0.00980392156863
+	Hunter He:  0.00980392156863
+	Julie Xiao:  0.00980392156863
+
+Amy Nguyen
+	Bonnie Xiao:  0.166666666667
+	Jae Hoonhoon Kim:  0.166666666667
+	Amanda Chin:  0.166666666667
+	Phillip Tran:  0.166666666667
+	Keien Ohta:  0.166666666667
+	Shreya Chatterjee:  0.166666666667
+
+Brenda Rocha
+	Patrick Chang:  0.1
+	Andrea Kwan:  0.075
+	Haruko Ayabe:  0.075
+	Amanda Chin:  0.075
+	Bonnie Xiao:  0.075
+	Aditya Subbarao:  0.05
+	Wesley Snipes Trương:  0.05
+	Ty Lai:  0.05
+	Eunice Lee:  0.05
+	Hammad Khan:  0.05
+	Willa Peng:  0.05
+	Raymond Tong:  0.05
+	Michael Xu:  0.025
+	Alice Sun:  0.025
+	Albert Lin:  0.025
+	Jae Hoonhoon Kim:  0.025
+	Rohin Jethani:  0.025
+	Joey Choi:  0.025
+	Keith Kuk:  0.025
+	Janet Dong:  0.025
+	Julie Xiao:  0.025
+	Angela Liang:  0.025
+
+Kelley Hwang
+	Sammy Tong:  0.0952380952381
+	Andrea Kwan:  0.0952380952381
+	Camron Savarani:  0.0952380952381
+	Rohin Jethani:  0.047619047619
+	Amanda Chin:  0.047619047619
+	Aditya Subbarao:  0.047619047619
+	Margaret Chu:  0.047619047619
+	Julie Xiao:  0.047619047619
+	Janet Dong:  0.047619047619
+	Eric Park:  0.047619047619
+	Jesar Shah:  0.047619047619
+	Alice Sun:  0.047619047619
+	Chynna Wong:  0.047619047619
+	Shreya Chatterjee:  0.047619047619
+	Patrick Chang:  0.047619047619
+	Albert Lin:  0.047619047619
+	Sophie Wan:  0.047619047619
+	Haruko Ayabe:  0.047619047619
+
+Nadia Kim
+	Alice Sun:  0.166666666667
+	Haruko Ayabe:  0.166666666667
+	Sammy Tong:  0.0833333333333
+	Janet Dong:  0.0833333333333
+	Ty Lai:  0.0833333333333
+	Winky Wong:  0.0833333333333
+	Rohin Jethani:  0.0833333333333
+	Phillip Tran:  0.0833333333333
+	Chynna Wong:  0.0833333333333
+	Kelley Hwang:  0.0833333333333
+
+Raymond Tong
+	Aditya Subbarao:  0.0958904109589
+	Andrea Kwan:  0.0958904109589
+	Haruko Ayabe:  0.0821917808219
+	Jae Hoonhoon Kim:  0.0547945205479
+	Willa Peng:  0.0547945205479
+	Patrick Chang:  0.0547945205479
+	Sammy Tong:  0.041095890411
+	Eunice Lee:  0.041095890411
+	Wesley Snipes Trương:  0.027397260274
+	Alice Sun:  0.027397260274
+	Albert Lin:  0.027397260274
+	Eric Park:  0.027397260274
+	Ty Lai:  0.027397260274
+	Janet Dong:  0.027397260274
+	Amanda Chin:  0.027397260274
+	Bonnie Xiao:  0.027397260274
+	Margaret Chu:  0.027397260274
+	Alison Tang:  0.027397260274
+	Jeffrey Shih:  0.027397260274
+	Camron Savarani:  0.027397260274
+	Ella Gao:  0.013698630137
+	Daniel Du:  0.013698630137
+	Johnny Wang:  0.013698630137
+	Rohin Jethani:  0.013698630137
+	Steven Tse:  0.013698630137
+	Phillip Tran:  0.013698630137
+	Keith Kuk:  0.013698630137
+	Angela Tang:  0.013698630137
+	Christine Shih:  0.013698630137
+	Mimi Tam:  0.013698630137
+	Keien Ohta:  0.013698630137
+
+Sophie Wan
+	Jae Hoonhoon Kim:  0.121951219512
+	Andrea Kwan:  0.121951219512
+	Ty Lai:  0.0731707317073
+	Haruko Ayabe:  0.0731707317073
+	Sammy Tong:  0.0487804878049
+	Alice Sun:  0.0487804878049
+	Winky Wong:  0.0487804878049
+	Eunice Lee:  0.0487804878049
+	Amanda Chin:  0.0487804878049
+	Patrick Chang:  0.0487804878049
+	Aditya Subbarao:  0.0243902439024
+	Wesley Snipes Trương:  0.0243902439024
+	Phillip Tran:  0.0243902439024
+	Keith Kuk:  0.0243902439024
+	Evelyn Wang:  0.0243902439024
+	Christine Shih:  0.0243902439024
+	Willa Peng:  0.0243902439024
+	Keien Ohta:  0.0243902439024
+	Chynna Wong:  0.0243902439024
+	Raymond Tong:  0.0243902439024
+	Bonnie Xiao:  0.0243902439024
+	Margaret Chu:  0.0243902439024
+	Logan Moy:  0.0243902439024
+
+Andy Lin
+	Jae Hoonhoon Kim:  0.153846153846
+	Ty Lai:  0.0769230769231
+	Winky Wong:  0.0512820512821
+	Phillip Tran:  0.0512820512821
+	Eunice Lee:  0.0512820512821
+	Janet Dong:  0.0512820512821
+	Hunter He:  0.0512820512821
+	Julie Xiao:  0.0512820512821
+	Logan Moy:  0.0512820512821
+	Sammy Tong:  0.025641025641
+	Daniel Du:  0.025641025641
+	Alice Sun:  0.025641025641
+	Albert Lin:  0.025641025641
+	Kevin Zhang:  0.025641025641
+	Rohin Jethani:  0.025641025641
+	Jeffrey Shih:  0.025641025641
+	Joey Choi:  0.025641025641
+	Eric Park:  0.025641025641
+	Yun Park:  0.025641025641
+	Evelyn Wang:  0.025641025641
+	Christine Shih:  0.025641025641
+	Betina Yin:  0.025641025641
+	Willa Peng:  0.025641025641
+	Bonnie Xiao:  0.025641025641
+	Patrick Chang:  0.025641025641
+
+Chynna Wong
+	Jae Hoonhoon Kim:  0.0833333333333
+	Haruko Ayabe:  0.0833333333333
+	Margaret Chu:  0.0833333333333
+	Sammy Tong:  0.0555555555556
+	Ty Lai:  0.0555555555556
+	Andrea Kwan:  0.0555555555556
+	Hammad Khan:  0.0555555555556
+	Amanda Chin:  0.0555555555556
+	Bonnie Xiao:  0.0555555555556
+	Aditya Subbarao:  0.0277777777778
+	Rohin Jethani:  0.0277777777778
+	Kris Kris:  0.0277777777778
+	Joey Choi:  0.0277777777778
+	Winky Wong:  0.0277777777778
+	Phillip Tran:  0.0277777777778
+	Eunice Lee:  0.0277777777778
+	Keith Kuk:  0.0277777777778
+	Yun Park:  0.0277777777778
+	Janet Dong:  0.0277777777778
+	Willa Peng:  0.0277777777778
+	Keien Ohta:  0.0277777777778
+	Hunter He:  0.0277777777778
+	Logan Moy:  0.0277777777778
+	Patrick Chang:  0.0277777777778
+
+Keien Ohta
+	Haruko Ayabe:  1.0
+
+Willa Peng
+	Rohin Jethani:  0.0666666666667
+	Aditya Subbarao:  0.0555555555556
+	Andrea Kwan:  0.0555555555556
+	Alison Tang:  0.0555555555556
+	Albert Lin:  0.0444444444444
+	Sammy Tong:  0.0444444444444
+	Hammad Khan:  0.0444444444444
+	Ella Gao:  0.0333333333333
+	Angela Tang:  0.0333333333333
+	Jae Hoonhoon Kim:  0.0333333333333
+	Winky Wong:  0.0333333333333
+	Keith Kuk:  0.0333333333333
+	Bonnie Xiao:  0.0333333333333
+	Patrick Chang:  0.0333333333333
+	Kelley Hwang:  0.0222222222222
+	Kevin Zhang:  0.0222222222222
+	Ty Lai:  0.0222222222222
+	Eunice Lee:  0.0222222222222
+	Haruko Ayabe:  0.0222222222222
+	Christine Shih:  0.0222222222222
+	Janet Dong:  0.0222222222222
+	Keien Ohta:  0.0222222222222
+	Raymond Tong:  0.0222222222222
+	Hunter He:  0.0222222222222
+	Julie Xiao:  0.0222222222222
+	Camron Savarani:  0.0222222222222
+	Wesley Snipes Trương:  0.0111111111111
+	Michael Xu:  0.0111111111111
+	Yadanar Oo:  0.0111111111111
+	Joey Choi:  0.0111111111111
+	Phillip Tran:  0.0111111111111
+	Shreya Chatterjee:  0.0111111111111
+	Amanda Chin:  0.0111111111111
+	Mimi Tam:  0.0111111111111
+	Evelyn Wang:  0.0111111111111
+	Margaret Chu:  0.0111111111111
+	Angela Liang:  0.0111111111111
+	Jeffrey Shih:  0.0111111111111
+
+Mimi Tam
+	Jae Hoonhoon Kim:  0.126984126984
+	Andrea Kwan:  0.111111111111
+	Ty Lai:  0.0793650793651
+	Albert Lin:  0.0634920634921
+	Patrick Chang:  0.0634920634921
+	Aditya Subbarao:  0.047619047619
+	Rohin Jethani:  0.047619047619
+	Amanda Chin:  0.047619047619
+	Bonnie Xiao:  0.047619047619
+	Eunice Lee:  0.031746031746
+	Haruko Ayabe:  0.031746031746
+	Hammad Khan:  0.031746031746
+	Camron Savarani:  0.031746031746
+	Sammy Tong:  0.015873015873
+	Daniel Du:  0.015873015873
+	Evelyn Zhai:  0.015873015873
+	Wesley Snipes Trương:  0.015873015873
+	Alice Sun:  0.015873015873
+	Kelley Hwang:  0.015873015873
+	Angela Tang:  0.015873015873
+	Kris Kris:  0.015873015873
+	Ella Gao:  0.015873015873
+	Christine Shih:  0.015873015873
+	Janet Dong:  0.015873015873
+	Keien Ohta:  0.015873015873
+	Sophie Wan:  0.015873015873
+	Raymond Tong:  0.015873015873
+	Alison Tang:  0.015873015873
+
+David Liu
+	Ty Lai:  0.214285714286
+	Sammy Tong:  0.142857142857
+	Haruko Ayabe:  0.142857142857
+	Jae Hoonhoon Kim:  0.0714285714286
+	Phillip Tran:  0.0714285714286
+	Alice Sun:  0.0714285714286
+	Chynna Wong:  0.0714285714286
+	Andrea Kwan:  0.0714285714286
+	Sophie Wan:  0.0714285714286
+	Camron Savarani:  0.0714285714286
+
+Jocelyn Shieh
+	Jae Hoonhoon Kim:  0.111111111111
+	Sammy Tong:  0.111111111111
+	Julie Xiao:  0.0740740740741
+	Kevin Yin:  0.0740740740741
+	Haruko Ayabe:  0.0740740740741
+	Bonnie Xiao:  0.037037037037
+	Hunter He:  0.037037037037
+	Janet Dong:  0.037037037037
+	Evelyn Zhai:  0.037037037037
+	Amanda Chin:  0.037037037037
+	Aditya Subbarao:  0.037037037037
+	Keith Kuk:  0.037037037037
+	Michael Xu:  0.037037037037
+	Alice Sun:  0.037037037037
+	Ty Lai:  0.037037037037
+	Shreya Chatterjee:  0.037037037037
+	Andrea Kwan:  0.037037037037
+	Eunice Lee:  0.037037037037
+	Sophie Wan:  0.037037037037
+	Kelley Hwang:  0.037037037037
+
+Betina Yin
+	Jae Hoonhoon Kim:  0.0909090909091
+	Haruko Ayabe:  0.0909090909091
+	Sammy Tong:  0.0606060606061
+	Rohin Jethani:  0.0606060606061
+	Willa Peng:  0.0606060606061
+	Hunter He:  0.0606060606061
+	Julie Xiao:  0.0606060606061
+	Patrick Chang:  0.0606060606061
+	Johnny Wang:  0.030303030303
+	Hammad Khan:  0.030303030303
+	Winky Wong:  0.030303030303
+	Eric Park:  0.030303030303
+	Phillip Tran:  0.030303030303
+	Ty Lai:  0.030303030303
+	Andrea Kwan:  0.030303030303
+	Eunice Lee:  0.030303030303
+	Evelyn Wang:  0.030303030303
+	Christine Shih:  0.030303030303
+	Janet Dong:  0.030303030303
+	Amanda Chin:  0.030303030303
+	Sophie Wan:  0.030303030303
+	Raymond Tong:  0.030303030303
+	Margaret Chu:  0.030303030303
+
+Christina Ong
+	Eunice Lee:  0.125
+	Jae Hoonhoon Kim:  0.125
+	Albert Lin:  0.125
+	Bonnie Xiao:  0.0833333333333
+	Rohin Jethani:  0.0833333333333
+	Aditya Subbarao:  0.0833333333333
+	Hunter He:  0.0416666666667
+	Margaret Chu:  0.0416666666667
+	Alison Tang:  0.0416666666667
+	Mimi Tam:  0.0416666666667
+	Phillip Tran:  0.0416666666667
+	Keien Ohta:  0.0416666666667
+	Ty Lai:  0.0416666666667
+	Patrick Chang:  0.0416666666667
+	Raymond Tong:  0.0416666666667
+
+Amanda Chin
+	Sammy Tong:  0.140350877193
+	Rohin Jethani:  0.0877192982456
+	Andrea Kwan:  0.0701754385965
+	Aditya Subbarao:  0.0526315789474
+	Margaret Chu:  0.0526315789474
+	Alison Tang:  0.0526315789474
+	Wesley Snipes Trương:  0.0350877192982
+	Kelley Hwang:  0.0350877192982
+	Ty Lai:  0.0350877192982
+	Shreya Chatterjee:  0.0350877192982
+	Haruko Ayabe:  0.0350877192982
+	Hammad Khan:  0.0350877192982
+	Jeffrey Shih:  0.0175438596491
+	Daniel Du:  0.0175438596491
+	Albert Lin:  0.0175438596491
+	Kevin Zhang:  0.0175438596491
+	Ella Gao:  0.0175438596491
+	Eric Park:  0.0175438596491
+	Christine Shih:  0.0175438596491
+	Betina Yin:  0.0175438596491
+	Willa Peng:  0.0175438596491
+	Evelyn Wang:  0.0175438596491
+	Keien Ohta:  0.0175438596491
+	Chynna Wong:  0.0175438596491
+	Sophie Wan:  0.0175438596491
+	Raymond Tong:  0.0175438596491
+	Bonnie Xiao:  0.0175438596491
+	Hunter He:  0.0175438596491
+	Julie Xiao:  0.0175438596491
+	Kris Kris:  0.0175438596491
+	Patrick Chang:  0.0175438596491
+
+Janet Dong
+	Andrea Kwan:  0.116279069767
+	Jae Hoonhoon Kim:  0.093023255814
+	Sammy Tong:  0.093023255814
+	Haruko Ayabe:  0.093023255814
+	Ty Lai:  0.0697674418605
+	Patrick Chang:  0.0697674418605
+	Aditya Subbarao:  0.046511627907
+	Kevin Zhang:  0.046511627907
+	Rohin Jethani:  0.046511627907
+	Keith Kuk:  0.046511627907
+	Ella Gao:  0.0232558139535
+	Alice Sun:  0.0232558139535
+	Eric Park:  0.0232558139535
+	Phillip Tran:  0.0232558139535
+	Shreya Chatterjee:  0.0232558139535
+	Christine Shih:  0.0232558139535
+	Amanda Chin:  0.0232558139535
+	Willa Peng:  0.0232558139535
+	Chynna Wong:  0.0232558139535
+	Sophie Wan:  0.0232558139535
+	Raymond Tong:  0.0232558139535
+	Margaret Chu:  0.0232558139535
+
+Brian Wong
+	Wesley Snipes Trương:  0.166666666667
+	Ty Lai:  0.166666666667
+	Bonnie Xiao:  0.0833333333333
+	Lucy Chen:  0.0833333333333
+	Sammy Tong:  0.0833333333333
+	Aditya Subbarao:  0.0833333333333
+	Andrea Kwan:  0.0833333333333
+	Eunice Lee:  0.0833333333333
+	Camron Savarani:  0.0833333333333
+	Raymond Tong:  0.0833333333333
+
+Hammad Khan
+	Jae Hoonhoon Kim:  0.0723684210526
+	Andrea Kwan:  0.0526315789474
+	Raymond Tong:  0.0526315789474
+	Bonnie Xiao:  0.0526315789474
+	Aditya Subbarao:  0.0460526315789
+	Patrick Chang:  0.0460526315789
+	Rohin Jethani:  0.0394736842105
+	Haruko Ayabe:  0.0394736842105
+	Camron Savarani:  0.0394736842105
+	Wesley Snipes Trương:  0.0328947368421
+	Eunice Lee:  0.0328947368421
+	Willa Peng:  0.0328947368421
+	Alison Tang:  0.0328947368421
+	Albert Lin:  0.0263157894737
+	Angela Tang:  0.0263157894737
+	Sammy Tong:  0.0263157894737
+	Ty Lai:  0.0263157894737
+	Hunter He:  0.0263157894737
+	Ella Gao:  0.0197368421053
+	Eric Park:  0.0197368421053
+	Christine Shih:  0.0197368421053
+	Keien Ohta:  0.0197368421053
+	Alice Sun:  0.0131578947368
+	Kevin Zhang:  0.0131578947368
+	Keith Kuk:  0.0131578947368
+	Evelyn Wang:  0.0131578947368
+	Janet Dong:  0.0131578947368
+	Amanda Chin:  0.0131578947368
+	Betina Yin:  0.0131578947368
+	Margaret Chu:  0.0131578947368
+	Logan Moy:  0.0131578947368
+	Lucy Chen:  0.00657894736842
+	Daniel Du:  0.00657894736842
+	Evelyn Zhai:  0.00657894736842
+	Michael Xu:  0.00657894736842
+	Jesar Shah:  0.00657894736842
+	Kevin Yin:  0.00657894736842
+	Joey Choi:  0.00657894736842
+	Winky Wong:  0.00657894736842
+	Phillip Tran:  0.00657894736842
+	Shreya Chatterjee:  0.00657894736842
+	Christina Ong:  0.00657894736842
+	Mimi Tam:  0.00657894736842
+	Chynna Wong:  0.00657894736842
+	Julie Xiao:  0.00657894736842
+	Angela Liang:  0.00657894736842
+
+Yun Park
+	Margaret Chu:  0.2
+	Jae Hoonhoon Kim:  0.133333333333
+	Winky Wong:  0.133333333333
+	Bonnie Xiao:  0.0666666666667
+	Rohin Jethani:  0.0666666666667
+	Amanda Chin:  0.0666666666667
+	Christina Ong:  0.0666666666667
+	Julie Xiao:  0.0666666666667
+	Keien Ohta:  0.0666666666667
+	Andrea Kwan:  0.0666666666667
+	Eunice Lee:  0.0666666666667
+
+Haruko Ayabe
+	Jae Hoonhoon Kim:  0.106382978723
+	Andrea Kwan:  0.0851063829787
+	Aditya Subbarao:  0.0744680851064
+	Patrick Chang:  0.0531914893617
+	Alice Sun:  0.0425531914894
+	Sammy Tong:  0.0425531914894
+	Eunice Lee:  0.0425531914894
+	Rohin Jethani:  0.031914893617
+	Hammad Khan:  0.031914893617
+	Ty Lai:  0.031914893617
+	Christine Shih:  0.031914893617
+	Janet Dong:  0.031914893617
+	Willa Peng:  0.031914893617
+	Hunter He:  0.031914893617
+	Ella Gao:  0.0212765957447
+	Kevin Yin:  0.0212765957447
+	Angela Tang:  0.0212765957447
+	Keien Ohta:  0.0212765957447
+	Margaret Chu:  0.0212765957447
+	Alison Tang:  0.0212765957447
+	Evelyn Zhai:  0.0106382978723
+	Jesar Shah:  0.0106382978723
+	Albert Lin:  0.0106382978723
+	Kelley Hwang:  0.0106382978723
+	Joey Choi:  0.0106382978723
+	Winky Wong:  0.0106382978723
+	Eric Park:  0.0106382978723
+	Phillip Tran:  0.0106382978723
+	Shreya Chatterjee:  0.0106382978723
+	Keith Kuk:  0.0106382978723
+	Evelyn Wang:  0.0106382978723
+	Amanda Chin:  0.0106382978723
+	Christina Ong:  0.0106382978723
+	Betina Yin:  0.0106382978723
+	Chynna Wong:  0.0106382978723
+	Sophie Wan:  0.0106382978723
+	Raymond Tong:  0.0106382978723
+	Bonnie Xiao:  0.0106382978723
+	Logan Moy:  0.0106382978723
+
+Keith Kuk
+	Jae Hoonhoon Kim:  0.0789473684211
+	Rohin Jethani:  0.0789473684211
+	Sammy Tong:  0.0789473684211
+	Andrea Kwan:  0.0657894736842
+	Hammad Khan:  0.0657894736842
+	Haruko Ayabe:  0.0394736842105
+	Bonnie Xiao:  0.0394736842105
+	Alison Tang:  0.0394736842105
+	Ella Gao:  0.0263157894737
+	Aditya Subbarao:  0.0263157894737
+	Albert Lin:  0.0263157894737
+	Angela Tang:  0.0263157894737
+	Kevin Zhang:  0.0263157894737
+	Winky Wong:  0.0263157894737
+	Eric Park:  0.0263157894737
+	Ty Lai:  0.0263157894737
+	Janet Dong:  0.0263157894737
+	Logan Moy:  0.0263157894737
+	Patrick Chang:  0.0263157894737
+	Camron Savarani:  0.0263157894737
+	Wesley Snipes Trương:  0.0131578947368
+	Michael Randall:  0.0131578947368
+	Kelley Hwang:  0.0131578947368
+	Kevin Yin:  0.0131578947368
+	Phillip Tran:  0.0131578947368
+	Shreya Chatterjee:  0.0131578947368
+	Eunice Lee:  0.0131578947368
+	Yun Park:  0.0131578947368
+	Christine Shih:  0.0131578947368
+	Amanda Chin:  0.0131578947368
+	Betina Yin:  0.0131578947368
+	Willa Peng:  0.0131578947368
+	Evelyn Wang:  0.0131578947368
+	Hunter He:  0.0131578947368
+	Julie Xiao:  0.0131578947368
+
+Eunice Lee
+	Andrea Kwan:  0.0792682926829
+	Jae Hoonhoon Kim:  0.0670731707317
+	Sammy Tong:  0.0548780487805
+	Aditya Subbarao:  0.0487804878049
+	Rohin Jethani:  0.0426829268293
+	Ty Lai:  0.0365853658537
+	Haruko Ayabe:  0.0365853658537
+	Bonnie Xiao:  0.0365853658537
+	Patrick Chang:  0.0365853658537
+	Wesley Snipes Trương:  0.030487804878
+	Angela Tang:  0.030487804878
+	Hammad Khan:  0.030487804878
+	Willa Peng:  0.030487804878
+	Raymond Tong:  0.030487804878
+	Alison Tang:  0.0243902439024
+	Camron Savarani:  0.0243902439024
+	Ella Gao:  0.0182926829268
+	Alice Sun:  0.0182926829268
+	Kevin Yin:  0.0182926829268
+	Phillip Tran:  0.0182926829268
+	Keith Kuk:  0.0182926829268
+	Amanda Chin:  0.0182926829268
+	Margaret Chu:  0.0182926829268
+	Daniel Du:  0.0121951219512
+	Albert Lin:  0.0121951219512
+	Kevin Zhang:  0.0121951219512
+	Winky Wong:  0.0121951219512
+	Christine Shih:  0.0121951219512
+	Janet Dong:  0.0121951219512
+	Christina Ong:  0.0121951219512
+	Betina Yin:  0.0121951219512
+	Julie Xiao:  0.0121951219512
+	Logan Moy:  0.0121951219512
+	Lucy Chen:  0.00609756097561
+	Evelyn Zhai:  0.00609756097561
+	Kris Kris:  0.00609756097561
+	Jesar Shah:  0.00609756097561
+	Kelley Hwang:  0.00609756097561
+	Joey Choi:  0.00609756097561
+	Eric Park:  0.00609756097561
+	Shreya Chatterjee:  0.00609756097561
+	Yun Park:  0.00609756097561
+	Mimi Tam:  0.00609756097561
+	Evelyn Wang:  0.00609756097561
+	Keien Ohta:  0.00609756097561
+	Chynna Wong:  0.00609756097561
+	Sophie Wan:  0.00609756097561
+	Hunter He:  0.00609756097561
+	Alex Wang:  0.00609756097561
+	Angela Liang:  0.00609756097561
+	Jeffrey Shih:  0.00609756097561
+
+Jenny Mi
+	Bonnie Xiao:  0.103448275862
+	Sammy Tong:  0.103448275862
+	Rohin Jethani:  0.103448275862
+	Wesley Snipes Trương:  0.103448275862
+	Ty Lai:  0.103448275862
+	Andrea Kwan:  0.0689655172414
+	Aditya Subbarao:  0.0689655172414
+	Christina Ong:  0.0344827586207
+	Margaret Chu:  0.0344827586207
+	Willa Peng:  0.0344827586207
+	Mimi Tam:  0.0344827586207
+	Jesar Shah:  0.0344827586207
+	Alice Sun:  0.0344827586207
+	Eunice Lee:  0.0344827586207
+	Kelley Hwang:  0.0344827586207
+	Camron Savarani:  0.0344827586207
+	Raymond Tong:  0.0344827586207
+
+Andrea Kwan
+	Aditya Subbarao:  0.0689655172414
+	Raymond Tong:  0.0689655172414
+	Angela Tang:  0.0574712643678
+	Jae Hoonhoon Kim:  0.0574712643678
+	Wesley Snipes Trương:  0.0459770114943
+	Alice Sun:  0.0459770114943
+	Haruko Ayabe:  0.0459770114943
+	Janet Dong:  0.0459770114943
+	Rohin Jethani:  0.0344827586207
+	Winky Wong:  0.0344827586207
+	Ty Lai:  0.0344827586207
+	Bonnie Xiao:  0.0344827586207
+	Patrick Chang:  0.0344827586207
+	Sammy Tong:  0.0229885057471
+	Albert Lin:  0.0229885057471
+	Phillip Tran:  0.0229885057471
+	Eunice Lee:  0.0229885057471
+	Hammad Khan:  0.0229885057471
+	Amanda Chin:  0.0229885057471
+	Alison Tang:  0.0229885057471
+	Camron Savarani:  0.0229885057471
+	Michael Xu:  0.0114942528736
+	Kelley Hwang:  0.0114942528736
+	Kevin Yin:  0.0114942528736
+	Kevin Zhang:  0.0114942528736
+	Kris Kris:  0.0114942528736
+	Eric Park:  0.0114942528736
+	Shreya Chatterjee:  0.0114942528736
+	Keith Kuk:  0.0114942528736
+	Christine Shih:  0.0114942528736
+	Christina Ong:  0.0114942528736
+	Mimi Tam:  0.0114942528736
+	Willa Peng:  0.0114942528736
+	Sophie Wan:  0.0114942528736
+	Hunter He:  0.0114942528736
+	Margaret Chu:  0.0114942528736
+	Logan Moy:  0.0114942528736
+	Alex Wang:  0.0114942528736
+	Jeffrey Shih:  0.0114942528736
+
+Shreya Chatterjee
+	Jae Hoonhoon Kim:  0.111111111111
+	Aditya Subbarao:  0.111111111111
+	Willa Peng:  0.111111111111
+	Keith Kuk:  0.111111111111
+	Janet Dong:  0.0740740740741
+	Ty Lai:  0.0740740740741
+	Kevin Zhang:  0.037037037037
+	Sammy Tong:  0.037037037037
+	Christine Shih:  0.037037037037
+	Camron Savarani:  0.037037037037
+	Kelley Hwang:  0.037037037037
+	Julie Xiao:  0.037037037037
+	Andrea Kwan:  0.037037037037
+	Eunice Lee:  0.037037037037
+	Kevin Yin:  0.037037037037
+	Raymond Tong:  0.037037037037
+	Haruko Ayabe:  0.037037037037
+
+Ty Lai
+	Andrea Kwan:  0.0879120879121
+	Haruko Ayabe:  0.0769230769231
+	Jae Hoonhoon Kim:  0.0549450549451
+	Hammad Khan:  0.0549450549451
+	Wesley Snipes Trương:  0.043956043956
+	Rohin Jethani:  0.043956043956
+	Sammy Tong:  0.043956043956
+	Aditya Subbarao:  0.032967032967
+	Alice Sun:  0.032967032967
+	Kevin Yin:  0.032967032967
+	Willa Peng:  0.032967032967
+	Raymond Tong:  0.032967032967
+	Bonnie Xiao:  0.032967032967
+	Alison Tang:  0.032967032967
+	Patrick Chang:  0.032967032967
+	Winky Wong:  0.021978021978
+	Eunice Lee:  0.021978021978
+	Keith Kuk:  0.021978021978
+	Amanda Chin:  0.021978021978
+	Keien Ohta:  0.021978021978
+	Logan Moy:  0.021978021978
+	Camron Savarani:  0.021978021978
+	Lucy Chen:  0.010989010989
+	Ella Gao:  0.010989010989
+	Daniel Du:  0.010989010989
+	Albert Lin:  0.010989010989
+	Kevin Zhang:  0.010989010989
+	Yadanar Oo:  0.010989010989
+	Phillip Tran:  0.010989010989
+	Shreya Chatterjee:  0.010989010989
+	Christina Ong:  0.010989010989
+	Betina Yin:  0.010989010989
+	Chynna Wong:  0.010989010989
+	Sophie Wan:  0.010989010989
+	Hunter He:  0.010989010989
+	Margaret Chu:  0.010989010989
+	Angela Liang:  0.010989010989
+	Jeffrey Shih:  0.010989010989
+
+Daniel Du
+	Rohin Jethani:  0.5
+	Evelyn Wang:  0.25
+	Ty Lai:  0.25
+
+Phillip Tran
+	Haruko Ayabe:  0.170212765957
+	Andrea Kwan:  0.148936170213
+	Alice Sun:  0.0851063829787
+	Jae Hoonhoon Kim:  0.063829787234
+	Rohin Jethani:  0.063829787234
+	Ty Lai:  0.063829787234
+	Bonnie Xiao:  0.0425531914894
+	Aditya Subbarao:  0.0425531914894
+	Patrick Chang:  0.0425531914894
+	Logan Moy:  0.0425531914894
+	Camron Savarani:  0.0425531914894
+	Hammad Khan:  0.0212765957447
+	Lucy Chen:  0.0212765957447
+	Ella Gao:  0.0212765957447
+	Amanda Chin:  0.0212765957447
+	Winky Wong:  0.0212765957447
+	Janet Dong:  0.0212765957447
+	Eric Park:  0.0212765957447
+	Willa Peng:  0.0212765957447
+	Chynna Wong:  0.0212765957447
+
+Eric Park
+	Andrea Kwan:  0.0877192982456
+	Albert Lin:  0.0701754385965
+	Camron Savarani:  0.0701754385965
+	Kevin Zhang:  0.0526315789474
+	Winky Wong:  0.0526315789474
+	Willa Peng:  0.0526315789474
+	Patrick Chang:  0.0526315789474
+	Sammy Tong:  0.0350877192982
+	Wesley Snipes Trương:  0.0350877192982
+	Keith Kuk:  0.0350877192982
+	Christine Shih:  0.0350877192982
+	Janet Dong:  0.0350877192982
+	Amanda Chin:  0.0350877192982
+	Hunter He:  0.0350877192982
+	Evelyn Zhai:  0.0175438596491
+	Aditya Subbarao:  0.0175438596491
+	Jesar Shah:  0.0175438596491
+	Alice Sun:  0.0175438596491
+	Kevin Yin:  0.0175438596491
+	Jae Hoonhoon Kim:  0.0175438596491
+	Rohin Jethani:  0.0175438596491
+	Ella Gao:  0.0175438596491
+	Phillip Tran:  0.0175438596491
+	Ty Lai:  0.0175438596491
+	Haruko Ayabe:  0.0175438596491
+	Evelyn Wang:  0.0175438596491
+	Mimi Tam:  0.0175438596491
+	Chynna Wong:  0.0175438596491
+	Sophie Wan:  0.0175438596491
+	Angela Tang:  0.0175438596491
+	Margaret Chu:  0.0175438596491
+	Julie Xiao:  0.0175438596491
+
+Lusia Tianyao Wang
+	Camron Savarani:  0.25
+	Angela Tang:  0.125
+	Kevin Zhang:  0.125
+	Evelyn Wang:  0.125
+	Hunter He:  0.125
+	Ella Gao:  0.125
+	Sammy Tong:  0.125
+
+Winky Wong
+	Jae Hoonhoon Kim:  0.093023255814
+	Sammy Tong:  0.0697674418605
+	Andrea Kwan:  0.0697674418605
+	Haruko Ayabe:  0.0581395348837
+	Bonnie Xiao:  0.0581395348837
+	Patrick Chang:  0.0581395348837
+	Wesley Snipes Trương:  0.046511627907
+	Eunice Lee:  0.0348837209302
+	Aditya Subbarao:  0.0232558139535
+	Albert Lin:  0.0232558139535
+	Angela Tang:  0.0232558139535
+	Hammad Khan:  0.0232558139535
+	Ty Lai:  0.0232558139535
+	Keith Kuk:  0.0232558139535
+	Christine Shih:  0.0232558139535
+	Janet Dong:  0.0232558139535
+	Willa Peng:  0.0232558139535
+	Raymond Tong:  0.0232558139535
+	Hunter He:  0.0232558139535
+	Alison Tang:  0.0232558139535
+	Lucy Chen:  0.0116279069767
+	Ella Gao:  0.0116279069767
+	Evelyn Zhai:  0.0116279069767
+	Alice Sun:  0.0116279069767
+	Kelley Hwang:  0.0116279069767
+	Kevin Yin:  0.0116279069767
+	Kevin Zhang:  0.0116279069767
+	Winky Wong:  0.0116279069767
+	Eric Park:  0.0116279069767
+	Phillip Tran:  0.0116279069767
+	Evelyn Wang:  0.0116279069767
+	Amanda Chin:  0.0116279069767
+	Christina Ong:  0.0116279069767
+	Mimi Tam:  0.0116279069767
+	Keien Ohta:  0.0116279069767
+	Chynna Wong:  0.0116279069767
+	Sophie Wan:  0.0116279069767
+	Margaret Chu:  0.0116279069767
+	Julie Xiao:  0.0116279069767
+	Angela Liang:  0.0116279069767
+
+Bonnie Xiao
+	Jae Hoonhoon Kim:  0.136363636364
+	Aditya Subbarao:  0.136363636364
+	Alison Tang:  0.0909090909091
+	Hammad Khan:  0.0454545454545
+	Ella Gao:  0.0454545454545
+	Janet Dong:  0.0454545454545
+	Evelyn Zhai:  0.0454545454545
+	Margaret Chu:  0.0454545454545
+	Rohin Jethani:  0.0454545454545
+	Michael Xu:  0.0454545454545
+	Phillip Tran:  0.0454545454545
+	Alice Sun:  0.0454545454545
+	Keien Ohta:  0.0454545454545
+	Willa Peng:  0.0454545454545
+	Eunice Lee:  0.0454545454545
+	Kelley Hwang:  0.0454545454545
+	Kevin Yin:  0.0454545454545
+
+Joey Choi
+	Sammy Tong:  0.0851063829787
+	Andrea Kwan:  0.0851063829787
+	Jae Hoonhoon Kim:  0.063829787234
+	Willa Peng:  0.063829787234
+	Bonnie Xiao:  0.0531914893617
+	Patrick Chang:  0.0531914893617
+	Albert Lin:  0.0425531914894
+	Rohin Jethani:  0.0425531914894
+	Eunice Lee:  0.0425531914894
+	Haruko Ayabe:  0.0425531914894
+	Janet Dong:  0.031914893617
+	Amanda Chin:  0.031914893617
+	Raymond Tong:  0.031914893617
+	Aditya Subbarao:  0.0212765957447
+	Kevin Zhang:  0.0212765957447
+	Kris Kris:  0.0212765957447
+	Ty Lai:  0.0212765957447
+	Hunter He:  0.0212765957447
+	Daniel Du:  0.0106382978723
+	Evelyn Zhai:  0.0106382978723
+	Wesley Snipes Trương:  0.0106382978723
+	Jesar Shah:  0.0106382978723
+	Alice Sun:  0.0106382978723
+	Johnny Wang:  0.0106382978723
+	Kelley Hwang:  0.0106382978723
+	Kevin Yin:  0.0106382978723
+	Winky Wong:  0.0106382978723
+	Eric Park:  0.0106382978723
+	Phillip Tran:  0.0106382978723
+	Hammad Khan:  0.0106382978723
+	Christina Ong:  0.0106382978723
+	Betina Yin:  0.0106382978723
+	Keien Ohta:  0.0106382978723
+	Chynna Wong:  0.0106382978723
+	Sophie Wan:  0.0106382978723
+	Brenda Rocha:  0.0106382978723
+	Margaret Chu:  0.0106382978723
+	Julie Xiao:  0.0106382978723
+	Alison Tang:  0.0106382978723
+
+Ella Gao
+	Sammy Tong:  0.0769230769231
+	Andrea Kwan:  0.0769230769231
+	Rohin Jethani:  0.0641025641026
+	Patrick Chang:  0.0641025641026
+	Haruko Ayabe:  0.0512820512821
+	Camron Savarani:  0.0512820512821
+	Aditya Subbarao:  0.0384615384615
+	Eric Park:  0.0384615384615
+	Keith Kuk:  0.0384615384615
+	Willa Peng:  0.0384615384615
+	Angela Tang:  0.0384615384615
+	Albert Lin:  0.025641025641
+	Kevin Zhang:  0.025641025641
+	Bonnie Xiao:  0.025641025641
+	Janet Dong:  0.025641025641
+	Keien Ohta:  0.025641025641
+	Raymond Tong:  0.025641025641
+	Hunter He:  0.025641025641
+	Julie Xiao:  0.025641025641
+	Wesley Snipes Trương:  0.0128205128205
+	Michael Xu:  0.0128205128205
+	Alice Sun:  0.0128205128205
+	Michael Randall:  0.0128205128205
+	Jae Hoonhoon Kim:  0.0128205128205
+	Joey Choi:  0.0128205128205
+	Winky Wong:  0.0128205128205
+	Phillip Tran:  0.0128205128205
+	Ty Lai:  0.0128205128205
+	Shreya Chatterjee:  0.0128205128205
+	Eunice Lee:  0.0128205128205
+	Christine Shih:  0.0128205128205
+	Amanda Chin:  0.0128205128205
+	Christina Ong:  0.0128205128205
+	Betina Yin:  0.0128205128205
+	Margaret Chu:  0.0128205128205
+	Alison Tang:  0.0128205128205
+
+Rohin Jethani
+	Jae Hoonhoon Kim:  0.121212121212
+	Sammy Tong:  0.121212121212
+	Aditya Subbarao:  0.0606060606061
+	Winky Wong:  0.0606060606061
+	Haruko Ayabe:  0.0606060606061
+	Bonnie Xiao:  0.0606060606061
+	Margaret Chu:  0.0606060606061
+	Ella Gao:  0.030303030303
+	Kelley Hwang:  0.030303030303
+	Kevin Yin:  0.030303030303
+	Kevin Zhang:  0.030303030303
+	Eric Park:  0.030303030303
+	Ty Lai:  0.030303030303
+	Andrea Kwan:  0.030303030303
+	Hammad Khan:  0.030303030303
+	Amanda Chin:  0.030303030303
+	Willa Peng:  0.030303030303
+	Keien Ohta:  0.030303030303
+	Chynna Wong:  0.030303030303
+	Hunter He:  0.030303030303
+	Logan Moy:  0.030303030303
+	Camron Savarani:  0.030303030303
+
+Hoi Ning Liu
+	Amanda Chin:  0.25
+	Willa Peng:  0.25
+	Christine Shih:  0.25
+	Rohin Jethani:  0.25
+
+Yadanar Oo
+	Bonnie Xiao:  0.25
+	Albert Lin:  0.25
+	Aditya Subbarao:  0.25
+	Jae Hoonhoon Kim:  0.25
+
+Nicole Martinez
+	Willa Peng:  0.272727272727
+	Evelyn Wang:  0.0909090909091
+	Aditya Subbarao:  0.0909090909091
+	Ty Lai:  0.0909090909091
+	Bonnie Xiao:  0.0454545454545
+	Jae Hoonhoon Kim:  0.0454545454545
+	Yadanar Oo:  0.0454545454545
+	Sammy Tong:  0.0454545454545
+	Kris Kris:  0.0454545454545
+	Amanda Chin:  0.0454545454545
+	Andrea Kwan:  0.0454545454545
+	Albert Lin:  0.0454545454545
+	Kevin Yin:  0.0454545454545
+	Raymond Tong:  0.0454545454545
+
+Jae Hoonhoon Kim
+	Haruko Ayabe:  0.0833333333333
+	Patrick Chang:  0.0833333333333
+	Aditya Subbarao:  0.0666666666667
+	Andrea Kwan:  0.0666666666667
+	Bonnie Xiao:  0.0666666666667
+	Sammy Tong:  0.05
+	Winky Wong:  0.05
+	Phillip Tran:  0.05
+	Ty Lai:  0.05
+	Hammad Khan:  0.05
+	Alison Tang:  0.05
+	Eunice Lee:  0.0333333333333
+	Janet Dong:  0.0333333333333
+	Ella Gao:  0.0166666666667
+	Evelyn Zhai:  0.0166666666667
+	Wesley Snipes Trương:  0.0166666666667
+	Johnny Wang:  0.0166666666667
+	Albert Lin:  0.0166666666667
+	Rohin Jethani:  0.0166666666667
+	Joey Choi:  0.0166666666667
+	Keith Kuk:  0.0166666666667
+	Christine Shih:  0.0166666666667
+	Amanda Chin:  0.0166666666667
+	Christina Ong:  0.0166666666667
+	Mimi Tam:  0.0166666666667
+	Keien Ohta:  0.0166666666667
+	Chynna Wong:  0.0166666666667
+	Raymond Tong:  0.0166666666667
+	Hunter He:  0.0166666666667
+
+Kevin Zhang
+	Christine Shih:  0.0882352941176
+	Ella Gao:  0.0588235294118
+	Sammy Tong:  0.0588235294118
+	Eric Park:  0.0588235294118
+	Andrea Kwan:  0.0588235294118
+	Haruko Ayabe:  0.0588235294118
+	Amanda Chin:  0.0588235294118
+	Hunter He:  0.0588235294118
+	Patrick Chang:  0.0588235294118
+	Aditya Subbarao:  0.0294117647059
+	Jesar Shah:  0.0294117647059
+	Albert Lin:  0.0294117647059
+	Hammad Khan:  0.0294117647059
+	Rohin Jethani:  0.0294117647059
+	Joey Choi:  0.0294117647059
+	Winky Wong:  0.0294117647059
+	Ty Lai:  0.0294117647059
+	Keith Kuk:  0.0294117647059
+	Angela Tang:  0.0294117647059
+	Janet Dong:  0.0294117647059
+	Willa Peng:  0.0294117647059
+	Sophie Wan:  0.0294117647059
+	Bonnie Xiao:  0.0294117647059
+	Camron Savarani:  0.0294117647059
+
+Christine Shih
+	Sammy Tong:  0.150943396226
+	Andrea Kwan:  0.0943396226415
+	Haruko Ayabe:  0.0943396226415
+	Jae Hoonhoon Kim:  0.0566037735849
+	Willa Peng:  0.0566037735849
+	Patrick Chang:  0.0566037735849
+	Ella Gao:  0.0377358490566
+	Rohin Jethani:  0.0377358490566
+	Winky Wong:  0.0377358490566
+	Ty Lai:  0.0377358490566
+	Janet Dong:  0.0377358490566
+	Camron Savarani:  0.0377358490566
+	Evelyn Zhai:  0.0188679245283
+	Aditya Subbarao:  0.0188679245283
+	Alice Sun:  0.0188679245283
+	Kelley Hwang:  0.0188679245283
+	Eric Park:  0.0188679245283
+	Phillip Tran:  0.0188679245283
+	Eunice Lee:  0.0188679245283
+	Hammad Khan:  0.0188679245283
+	Chynna Wong:  0.0188679245283
+	Bonnie Xiao:  0.0188679245283
+	Hunter He:  0.0188679245283
+	Margaret Chu:  0.0188679245283
+	Julie Xiao:  0.0188679245283
+	Alison Tang:  0.0188679245283
+
+Angela Tang
+	Camron Savarani:  0.0714285714286
+	Aditya Subbarao:  0.0571428571429
+	Sammy Tong:  0.0571428571429
+	Alison Tang:  0.0571428571429
+	Ella Gao:  0.0428571428571
+	Wesley Snipes Trương:  0.0428571428571
+	Kevin Zhang:  0.0428571428571
+	Jae Hoonhoon Kim:  0.0428571428571
+	Eric Park:  0.0428571428571
+	Andrea Kwan:  0.0428571428571
+	Raymond Tong:  0.0428571428571
+	Patrick Chang:  0.0428571428571
+	Rohin Jethani:  0.0285714285714
+	Winky Wong:  0.0285714285714
+	Haruko Ayabe:  0.0285714285714
+	Janet Dong:  0.0285714285714
+	Amanda Chin:  0.0285714285714
+	Hunter He:  0.0285714285714
+	Julie Xiao:  0.0285714285714
+	Michael Xu:  0.0142857142857
+	Jesar Shah:  0.0142857142857
+	Albert Lin:  0.0142857142857
+	Evelyn Wang:  0.0142857142857
+	Joey Choi:  0.0142857142857
+	Phillip Tran:  0.0142857142857
+	Ty Lai:  0.0142857142857
+	Shreya Chatterjee:  0.0142857142857
+	Eunice Lee:  0.0142857142857
+	Keith Kuk:  0.0142857142857
+	Hammad Khan:  0.0142857142857
+	Christine Shih:  0.0142857142857
+	Willa Peng:  0.0142857142857
+	Keien Ohta:  0.0142857142857
+	Bonnie Xiao:  0.0142857142857
+
+William Chen
+	Angela Tang:  0.25
+	Keith Kuk:  0.25
+	Aditya Subbarao:  0.125
+	Winky Wong:  0.125
+	Julie Xiao:  0.125
+	Alison Tang:  0.125
+
+Kevin Yin
+	Aditya Subbarao:  0.0933333333333
+	Haruko Ayabe:  0.0666666666667
+	Sammy Tong:  0.0533333333333
+	Ty Lai:  0.0533333333333
+	Bonnie Xiao:  0.0533333333333
+	Albert Lin:  0.04
+	Jae Hoonhoon Kim:  0.04
+	Rohin Jethani:  0.04
+	Andrea Kwan:  0.04
+	Janet Dong:  0.04
+	Amanda Chin:  0.04
+	Alison Tang:  0.04
+	Patrick Chang:  0.04
+	Wesley Snipes Trương:  0.0266666666667
+	Kris Kris:  0.0266666666667
+	Eric Park:  0.0266666666667
+	Eunice Lee:  0.0266666666667
+	Willa Peng:  0.0266666666667
+	Margaret Chu:  0.0266666666667
+	Camron Savarani:  0.0266666666667
+	Michael Xu:  0.0133333333333
+	Johnny Wang:  0.0133333333333
+	Evelyn Wang:  0.0133333333333
+	Kevin Zhang:  0.0133333333333
+	Phillip Tran:  0.0133333333333
+	Ella Gao:  0.0133333333333
+	Keith Kuk:  0.0133333333333
+	Yun Park:  0.0133333333333
+	Hammad Khan:  0.0133333333333
+	Christina Ong:  0.0133333333333
+	Sophie Wan:  0.0133333333333
+	Raymond Tong:  0.0133333333333
+	Logan Moy:  0.0133333333333
+
+Evelyn Wang
+	Sammy Tong:  0.21875
+	Jae Hoonhoon Kim:  0.125
+	Ty Lai:  0.09375
+	Eunice Lee:  0.09375
+	Janet Dong:  0.0625
+	Patrick Chang:  0.0625
+	Kevin Zhang:  0.03125
+	Hammad Khan:  0.03125
+	Christine Shih:  0.03125
+	Evelyn Zhai:  0.03125
+	Aditya Subbarao:  0.03125
+	Betina Yin:  0.03125
+	Julie Xiao:  0.03125
+	Rohin Jethani:  0.03125
+	Alice Sun:  0.03125
+	Keien Ohta:  0.03125
+	Andrea Kwan:  0.03125
+
+Albert Lin
+	Andrea Kwan:  0.112676056338
+	Angela Tang:  0.0985915492958
+	Patrick Chang:  0.0845070422535
+	Camron Savarani:  0.0845070422535
+	Sammy Tong:  0.056338028169
+	Aditya Subbarao:  0.0422535211268
+	Ty Lai:  0.0422535211268
+	Haruko Ayabe:  0.0422535211268
+	Ella Gao:  0.0281690140845
+	Alice Sun:  0.0281690140845
+	Hammad Khan:  0.0281690140845
+	Rohin Jethani:  0.0281690140845
+	Eric Park:  0.0281690140845
+	Bonnie Xiao:  0.0281690140845
+	Julie Xiao:  0.0281690140845
+	Lucy Chen:  0.0140845070423
+	Jesar Shah:  0.0140845070423
+	Kevin Yin:  0.0140845070423
+	Kevin Zhang:  0.0140845070423
+	Jae Hoonhoon Kim:  0.0140845070423
+	Winky Wong:  0.0140845070423
+	Phillip Tran:  0.0140845070423
+	Eunice Lee:  0.0140845070423
+	Keith Kuk:  0.0140845070423
+	Evelyn Wang:  0.0140845070423
+	Janet Dong:  0.0140845070423
+	Amanda Chin:  0.0140845070423
+	Betina Yin:  0.0140845070423
+	Willa Peng:  0.0140845070423
+	Hunter He:  0.0140845070423
+	Alison Tang:  0.0140845070423
+	Logan Moy:  0.0140845070423
+
+Johnny Wang
+	Alison Tang:  0.222222222222
+	Jae Hoonhoon Kim:  0.111111111111
+	Aditya Subbarao:  0.111111111111
+	Christina Ong:  0.111111111111
+	Winky Wong:  0.111111111111
+	Wesley Snipes Trương:  0.111111111111
+	Kelley Hwang:  0.111111111111
+	Raymond Tong:  0.111111111111
+
+Alice Sun
+	Andrea Kwan:  0.07
+	Bonnie Xiao:  0.07
+	Aditya Subbarao:  0.06
+	Jae Hoonhoon Kim:  0.06
+	Haruko Ayabe:  0.05
+	Patrick Chang:  0.05
+	Wesley Snipes Trương:  0.04
+	Sammy Tong:  0.04
+	Ty Lai:  0.04
+	Willa Peng:  0.03
+	Raymond Tong:  0.03
+	Camron Savarani:  0.03
+	Ella Gao:  0.02
+	Daniel Du:  0.02
+	Albert Lin:  0.02
+	Hammad Khan:  0.02
+	Kevin Zhang:  0.02
+	Rohin Jethani:  0.02
+	Winky Wong:  0.02
+	Eunice Lee:  0.02
+	Christine Shih:  0.02
+	Janet Dong:  0.02
+	Christina Ong:  0.02
+	Hunter He:  0.02
+	Margaret Chu:  0.02
+	Evelyn Zhai:  0.01
+	Michael Xu:  0.01
+	Jesar Shah:  0.01
+	Johnny Wang:  0.01
+	Kevin Yin:  0.01
+	Phillip Tran:  0.01
+	Shreya Chatterjee:  0.01
+	Keith Kuk:  0.01
+	Evelyn Wang:  0.01
+	Amanda Chin:  0.01
+	Betina Yin:  0.01
+	Keien Ohta:  0.01
+	Sophie Wan:  0.01
+	Julie Xiao:  0.01
+	Alison Tang:  0.01
+	Logan Moy:  0.01
+	Angela Liang:  0.01
+
+Yifei Ding
+	Albert Lin:  0.333333333333
+	Patrick Chang:  0.333333333333
+	Sammy Tong:  0.333333333333
+
+Jesar Shah
+	Ty Lai:  0.0985915492958
+	Andrea Kwan:  0.0845070422535
+	Rohin Jethani:  0.0704225352113
+	Sammy Tong:  0.056338028169
+	Camron Savarani:  0.056338028169
+	Jae Hoonhoon Kim:  0.0422535211268
+	Angela Tang:  0.0422535211268
+	Amanda Chin:  0.0422535211268
+	Bonnie Xiao:  0.0422535211268
+	Aditya Subbarao:  0.0281690140845
+	Kevin Zhang:  0.0281690140845
+	Winky Wong:  0.0281690140845
+	Haruko Ayabe:  0.0281690140845
+	Janet Dong:  0.0281690140845
+	Betina Yin:  0.0281690140845
+	Willa Peng:  0.0281690140845
+	Hunter He:  0.0281690140845
+	Margaret Chu:  0.0281690140845
+	Patrick Chang:  0.0281690140845
+	Ella Gao:  0.0140845070423
+	Wesley Snipes Trương:  0.0140845070423
+	Michael Xu:  0.0140845070423
+	Jesar Shah:  0.0140845070423
+	Albert Lin:  0.0140845070423
+	Kelley Hwang:  0.0140845070423
+	Eric Park:  0.0140845070423
+	Phillip Tran:  0.0140845070423
+	Eunice Lee:  0.0140845070423
+	Keith Kuk:  0.0140845070423
+	Christine Shih:  0.0140845070423
+	Chynna Wong:  0.0140845070423
+	Julie Xiao:  0.0140845070423
+
+Michael Xu
+	Sammy Tong:  0.157894736842
+	Bonnie Xiao:  0.0526315789474
+	Alison Tang:  0.0526315789474
+	Janet Dong:  0.0526315789474
+	Kris Kris:  0.0526315789474
+	Amanda Chin:  0.0526315789474
+	Christina Ong:  0.0526315789474
+	Wesley Snipes Trương:  0.0526315789474
+	Willa Peng:  0.0526315789474
+	Mimi Tam:  0.0526315789474
+	Phillip Tran:  0.0526315789474
+	Alice Sun:  0.0526315789474
+	Ty Lai:  0.0526315789474
+	Shreya Chatterjee:  0.0526315789474
+	Andrea Kwan:  0.0526315789474
+	Albert Lin:  0.0526315789474
+	Patrick Chang:  0.0526315789474
+
+Rich Lin
+	Bonnie Xiao:  0.2
+	Willa Peng:  0.2
+	Winky Wong:  0.2
+	Hammad Khan:  0.2
+	Wesley Snipes Trương:  0.2
+
+Wesley Snipes Trương
+	Camron Savarani:  0.0759493670886
+	Rohin Jethani:  0.0632911392405
+	Sammy Tong:  0.0632911392405
+	Keien Ohta:  0.0632911392405
+	Ty Lai:  0.0506329113924
+	Patrick Chang:  0.0506329113924
+	Jae Hoonhoon Kim:  0.0379746835443
+	Andrea Kwan:  0.0379746835443
+	Angela Tang:  0.0379746835443
+	Willa Peng:  0.0379746835443
+	Raymond Tong:  0.0379746835443
+	Ella Gao:  0.0253164556962
+	Aditya Subbarao:  0.0253164556962
+	Alice Sun:  0.0253164556962
+	Albert Lin:  0.0253164556962
+	Winky Wong:  0.0253164556962
+	Haruko Ayabe:  0.0253164556962
+	Amanda Chin:  0.0253164556962
+	Bonnie Xiao:  0.0253164556962
+	Hunter He:  0.0253164556962
+	Daniel Du:  0.0126582278481
+	Evelyn Zhai:  0.0126582278481
+	Jesar Shah:  0.0126582278481
+	Kelley Hwang:  0.0126582278481
+	Kevin Yin:  0.0126582278481
+	Kevin Zhang:  0.0126582278481
+	Joey Choi:  0.0126582278481
+	Eric Park:  0.0126582278481
+	Phillip Tran:  0.0126582278481
+	Keith Kuk:  0.0126582278481
+	Christine Shih:  0.0126582278481
+	Janet Dong:  0.0126582278481
+	Betina Yin:  0.0126582278481
+	Margaret Chu:  0.0126582278481
+	Julie Xiao:  0.0126582278481
+	Alison Tang:  0.0126582278481
+	Kris Kris:  0.0126582278481
+
+Kris Kris
+	Andrea Kwan:  0.285714285714
+	Hammad Khan:  0.142857142857
+	Winky Wong:  0.142857142857
+	Willa Peng:  0.142857142857
+	Ty Lai:  0.142857142857
+	Evelyn Wang:  0.142857142857
+
+Steven Tse
+	Bonnie Xiao:  0.105263157895
+	Hammad Khan:  0.105263157895
+	Ty Lai:  0.105263157895
+	Sammy Tong:  0.0526315789474
+	Rohin Jethani:  0.0526315789474
+	Winky Wong:  0.0526315789474
+	Julie Xiao:  0.0526315789474
+	Wesley Snipes Trương:  0.0526315789474
+	Nicole Martinez:  0.0526315789474
+	Phillip Tran:  0.0526315789474
+	Andrea Kwan:  0.0526315789474
+	Willa Peng:  0.0526315789474
+	Albert Lin:  0.0526315789474
+	Sophie Wan:  0.0526315789474
+	Camron Savarani:  0.0526315789474
+	Haruko Ayabe:  0.0526315789474
+
+Aditya Subbarao
+	Jae Hoonhoon Kim:  0.0752688172043
+	Sammy Tong:  0.0537634408602
+	Haruko Ayabe:  0.0537634408602
+	Raymond Tong:  0.0537634408602
+	Winky Wong:  0.0430107526882
+	Camron Savarani:  0.0430107526882
+	Alice Sun:  0.0322580645161
+	Kelley Hwang:  0.0322580645161
+	Angela Tang:  0.0322580645161
+	Ty Lai:  0.0322580645161
+	Eunice Lee:  0.0322580645161
+	Janet Dong:  0.0322580645161
+	Bonnie Xiao:  0.0322580645161
+	Hunter He:  0.0322580645161
+	Ella Gao:  0.0215053763441
+	Kevin Yin:  0.0215053763441
+	Rohin Jethani:  0.0215053763441
+	Andrea Kwan:  0.0215053763441
+	Hammad Khan:  0.0215053763441
+	Amanda Chin:  0.0215053763441
+	Betina Yin:  0.0215053763441
+	Willa Peng:  0.0215053763441
+	Keien Ohta:  0.0215053763441
+	Julie Xiao:  0.0215053763441
+	Alison Tang:  0.0215053763441
+	Patrick Chang:  0.0215053763441
+	Lucy Chen:  0.010752688172
+	Daniel Du:  0.010752688172
+	Evelyn Zhai:  0.010752688172
+	Kris Kris:  0.010752688172
+	Wesley Snipes Trương:  0.010752688172
+	Albert Lin:  0.010752688172
+	Yadanar Oo:  0.010752688172
+	Eric Park:  0.010752688172
+	Keith Kuk:  0.010752688172
+	Christine Shih:  0.010752688172
+	Sophie Wan:  0.010752688172
+	Margaret Chu:  0.010752688172
+	Logan Moy:  0.010752688172
+	Angela Liang:  0.010752688172
+	Jeffrey Shih:  0.010752688172
+
+Epiphany Ryu
+	Alison Tang:  0.5
+	Betina Yin:  0.5
+
+Evelyn Zhai
+	Jae Hoonhoon Kim:  0.147058823529
+	Patrick Chang:  0.117647058824
+	Bonnie Xiao:  0.0882352941176
+	Ty Lai:  0.0882352941176
+	Ella Gao:  0.0588235294118
+	Winky Wong:  0.0588235294118
+	Alison Tang:  0.0588235294118
+	Willa Peng:  0.0588235294118
+	Hunter He:  0.0294117647059
+	Rohin Jethani:  0.0294117647059
+	Sammy Tong:  0.0294117647059
+	Joey Choi:  0.0294117647059
+	Christina Ong:  0.0294117647059
+	Janet Dong:  0.0294117647059
+	Mimi Tam:  0.0294117647059
+	Alice Sun:  0.0294117647059
+	Amanda Chin:  0.0294117647059
+	Christine Shih:  0.0294117647059
+	Eunice Lee:  0.0294117647059
+
+Magdalene Lim
+	Hammad Khan:  0.115384615385
+	Rohin Jethani:  0.0769230769231
+	Aditya Subbarao:  0.0769230769231
+	Wesley Snipes Trương:  0.0769230769231
+	Willa Peng:  0.0769230769231
+	Ty Lai:  0.0769230769231
+	Bonnie Xiao:  0.0384615384615
+	Kevin Zhang:  0.0384615384615
+	Hunter He:  0.0384615384615
+	Sammy Tong:  0.0384615384615
+	Daniel Du:  0.0384615384615
+	Evelyn Zhai:  0.0384615384615
+	Amanda Chin:  0.0384615384615
+	Eric Park:  0.0384615384615
+	Keien Ohta:  0.0384615384615
+	Eunice Lee:  0.0384615384615
+	Kelley Hwang:  0.0384615384615
+	Raymond Tong:  0.0384615384615
+	Haruko Ayabe:  0.0384615384615
+
+Sammy Tong
+	Andrea Kwan:  0.12962962963
+	Aditya Subbarao:  0.0740740740741
+	Haruko Ayabe:  0.0740740740741
+	Jae Hoonhoon Kim:  0.0555555555556
+	Rohin Jethani:  0.0555555555556
+	Willa Peng:  0.0555555555556
+	Camron Savarani:  0.0555555555556
+	Phillip Tran:  0.037037037037
+	Eunice Lee:  0.037037037037
+	Christine Shih:  0.037037037037
+	Julie Xiao:  0.037037037037
+	Patrick Chang:  0.037037037037
+	Ella Gao:  0.0185185185185
+	Wesley Snipes Trương:  0.0185185185185
+	Jesar Shah:  0.0185185185185
+	Alice Sun:  0.0185185185185
+	Albert Lin:  0.0185185185185
+	Kevin Zhang:  0.0185185185185
+	Joey Choi:  0.0185185185185
+	Steven Tse:  0.0185185185185
+	Eric Park:  0.0185185185185
+	Ty Lai:  0.0185185185185
+	Keith Kuk:  0.0185185185185
+	Evelyn Wang:  0.0185185185185
+	Amanda Chin:  0.0185185185185
+	Sophie Wan:  0.0185185185185
+	Hunter He:  0.0185185185185
+	Margaret Chu:  0.0185185185185
+	Alex Wang:  0.0185185185185
+
+Lucy Chen
+	Rohin Jethani:  0.116279069767
+	Eunice Lee:  0.116279069767
+	Andrea Kwan:  0.093023255814
+	Sammy Tong:  0.0697674418605
+	Aditya Subbarao:  0.0697674418605
+	Willa Peng:  0.0697674418605
+	Raymond Tong:  0.0697674418605
+	Bonnie Xiao:  0.046511627907
+	Amanda Chin:  0.046511627907
+	Janet Dong:  0.046511627907
+	Wesley Snipes Trương:  0.046511627907
+	Jae Hoonhoon Kim:  0.0232558139535
+	Daniel Du:  0.0232558139535
+	Margaret Chu:  0.0232558139535
+	Betina Yin:  0.0232558139535
+	Ty Lai:  0.0232558139535
+	Patrick Chang:  0.0232558139535
+	Keith Kuk:  0.0232558139535
+	Camron Savarani:  0.0232558139535
+	Haruko Ayabe:  0.0232558139535
+
+Brandon Ye
+	Haruko Ayabe:  0.181818181818
+	Jae Hoonhoon Kim:  0.136363636364
+	Sammy Tong:  0.0909090909091
+	Winky Wong:  0.0909090909091
+	Alice Sun:  0.0909090909091
+	Patrick Chang:  0.0909090909091
+	Kevin Zhang:  0.0454545454545
+	Hammad Khan:  0.0454545454545
+	Hunter He:  0.0454545454545
+	Phillip Tran:  0.0454545454545
+	Willa Peng:  0.0454545454545
+	Andrea Kwan:  0.0454545454545
+	Logan Moy:  0.0454545454545
+
+Katie Chou
+	Jae Hoonhoon Kim:  0.130434782609
+	Rohin Jethani:  0.108695652174
+	Aditya Subbarao:  0.0434782608696
+	Albert Lin:  0.0434782608696
+	Ty Lai:  0.0434782608696
+	Andrea Kwan:  0.0434782608696
+	Eunice Lee:  0.0434782608696
+	Haruko Ayabe:  0.0434782608696
+	Keien Ohta:  0.0434782608696
+	Sammy Tong:  0.0217391304348
+	Evelyn Zhai:  0.0217391304348
+	Wesley Snipes Trương:  0.0217391304348
+	Alice Sun:  0.0217391304348
+	Kelley Hwang:  0.0217391304348
+	Kevin Zhang:  0.0217391304348
+	Ella Gao:  0.0217391304348
+	Winky Wong:  0.0217391304348
+	Hammad Khan:  0.0217391304348
+	Phillip Tran:  0.0217391304348
+	Evelyn Wang:  0.0217391304348
+	Janet Dong:  0.0217391304348
+	Amanda Chin:  0.0217391304348
+	Betina Yin:  0.0217391304348
+	Willa Peng:  0.0217391304348
+	Chynna Wong:  0.0217391304348
+	Hunter He:  0.0217391304348
+	Julie Xiao:  0.0217391304348
+	Logan Moy:  0.0217391304348
+	Patrick Chang:  0.0217391304348
+	Camron Savarani:  0.0217391304348
+
+Ivan Zhou
+	Hammad Khan:  1.0
+
