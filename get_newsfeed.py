@@ -23,7 +23,7 @@ def get_newsfeed_list():
 	groups = graph.get_object("me/groups")
 	PBL_GROUP_ID = -1
 	for group in groups['data']:
-		if group['name'] == "Berkeley PBL Fall 2013": #'Berkeley PBL Fall 2014':
+		if group['name'] == "Berkeley PBL Fall 2014": #'Berkeley PBL Fall 2014':
 			PBL_GROUP_ID = group['id']
 	# PBL_GROUP_ID="648338708594339"
 	fb_url_suffix = "?access_token="+oauth_access_token

@@ -1,0 +1,2144 @@
+Mandy Chan
+	David Liu:  0.214285714286
+	Eric Quach:  0.214285714286
+	Molly Yee:  0.0714285714286
+	Frances Thai:  0.0714285714286
+	Sammy Tong:  0.0714285714286
+	Phyllis Thai:  0.0714285714286
+	Alven Wang:  0.0714285714286
+	Emily Liu:  0.0714285714286
+	Jason Tang:  0.0714285714286
+	Sophie Wan:  0.0714285714286
+
+Alan Zhang
+	Eric Quach:  0.0816326530612
+	Alex Takahashi:  0.0816326530612
+	Andrea Kwan:  0.0816326530612
+	Grace Kim:  0.0816326530612
+	Haruko Ayabe:  0.0612244897959
+	Patrick Chang:  0.0612244897959
+	David Liu:  0.0408163265306
+	Ben Lin:  0.0408163265306
+	Joey Choi:  0.0408163265306
+	Mandy Chan:  0.0408163265306
+	Frances Thai:  0.0408163265306
+	Jae Hoonhoon Kim:  0.0408163265306
+	Felicia Fang:  0.0204081632653
+	Johnny Wang:  0.0204081632653
+	Jensen Li:  0.0204081632653
+	David Cheung:  0.0204081632653
+	Eric Park:  0.0204081632653
+	Caroline Chen:  0.0204081632653
+	Evelyn Wang:  0.0204081632653
+	Betina Yin:  0.0204081632653
+	Cate Liu:  0.0204081632653
+	Keien Ohta:  0.0204081632653
+	Sophie Wan:  0.0204081632653
+	Thomas Warloe:  0.0204081632653
+	David Sohng:  0.0204081632653
+	Kenneth Lui:  0.0204081632653
+	Jason Tang:  0.0204081632653
+
+Nathalie Nguyen
+	David Liu:  0.173076923077
+	Andrea Kwan:  0.0961538461538
+	Haruko Ayabe:  0.0961538461538
+	Alice Sun:  0.0769230769231
+	Eric Park:  0.0769230769231
+	Sammy Tong:  0.0384615384615
+	David Cheung:  0.0384615384615
+	William Cheung:  0.0384615384615
+	Frances Thai:  0.0384615384615
+	Alice Chan:  0.0192307692308
+	Emily Liu:  0.0192307692308
+	Lei Ye:  0.0192307692308
+	Jensen Li:  0.0192307692308
+	Evelyn Wang:  0.0192307692308
+	Ben Lin:  0.0192307692308
+	Alex Takahashi:  0.0192307692308
+	Eric Quach:  0.0192307692308
+	Joey Choi:  0.0192307692308
+	Hammad Khan:  0.0192307692308
+	Betina Yin:  0.0192307692308
+	Jae Hoonhoon Kim:  0.0192307692308
+	Keien Ohta:  0.0192307692308
+	Sophie Wan:  0.0192307692308
+	Jason Tang:  0.0192307692308
+	Patrick Chang:  0.0192307692308
+	Alan Zhang:  0.0192307692308
+
+Patrick Chang
+	Haruko Ayabe:  0.166666666667
+	Eric Quach:  0.1
+	Andrea Kwan:  0.1
+	Jae Hoonhoon Kim:  0.0666666666667
+	Sophie Wan:  0.0666666666667
+	Hammad Khan:  0.0333333333333
+	Sammy Tong:  0.0333333333333
+	Alex Takahashi:  0.0333333333333
+	Joey Choi:  0.0333333333333
+	Grace Kim:  0.0333333333333
+	Betina Yin:  0.0333333333333
+	Alven Wang:  0.0333333333333
+	David Liu:  0.0333333333333
+	Eric Park:  0.0333333333333
+	William Cheung:  0.0333333333333
+	Alice Sun:  0.0333333333333
+	Johnny Wang:  0.0333333333333
+	Alex Wang:  0.0333333333333
+	Evelyn Wang:  0.0333333333333
+	Alice Chan:  0.0333333333333
+
+Andy Chen
+	Frances Thai:  0.333333333333
+	Andrea Kwan:  0.166666666667
+	Eric Park:  0.166666666667
+	Patrick Chang:  0.166666666667
+	Haruko Ayabe:  0.166666666667
+
+Keien Ohta
+	Joey Choi:  0.285714285714
+	Alice Sun:  0.142857142857
+	David Cheung:  0.0714285714286
+	Molly Yee:  0.0714285714286
+	Frances Thai:  0.0714285714286
+	Alex Takahashi:  0.0714285714286
+	Lei Ye:  0.0714285714286
+	Caroline Chen:  0.0714285714286
+	Alex Wang:  0.0714285714286
+	Haruko Ayabe:  0.0714285714286
+
+Harry Lee
+	Haruko Ayabe:  0.166666666667
+	Andrea Kwan:  0.133333333333
+	Eric Quach:  0.1
+	Cate Liu:  0.1
+	David Cheung:  0.0666666666667
+	Patrick Chang:  0.0666666666667
+	David Liu:  0.0333333333333
+	Hammad Khan:  0.0333333333333
+	Alex Takahashi:  0.0333333333333
+	Phyllis Thai:  0.0333333333333
+	Betina Yin:  0.0333333333333
+	Abraham Lin:  0.0333333333333
+	Jason Tang:  0.0333333333333
+	Albert Lin:  0.0333333333333
+	Sophie Wan:  0.0333333333333
+	Evelyn Wang:  0.0333333333333
+	Felicia Lin:  0.0333333333333
+
+Alex Wang
+	Alex Takahashi:  0.138888888889
+	Haruko Ayabe:  0.0740740740741
+	David Liu:  0.0509259259259
+	Joey Choi:  0.0416666666667
+	Albert Lin:  0.037037037037
+	Andrea Kwan:  0.037037037037
+	Eric Quach:  0.0324074074074
+	William Cheung:  0.0324074074074
+	Hammad Khan:  0.0324074074074
+	Patrick Chang:  0.0324074074074
+	Alice Sun:  0.0277777777778
+	Phyllis Thai:  0.0277777777778
+	Cate Liu:  0.0277777777778
+	Grace Kim:  0.0277777777778
+	Ben Lin:  0.0231481481481
+	Eric Park:  0.0231481481481
+	Betina Yin:  0.0231481481481
+	Sophie Wan:  0.0231481481481
+	Jae Hoonhoon Kim:  0.0185185185185
+	Sammy Tong:  0.0185185185185
+	Keien Ohta:  0.0185185185185
+	Alven Wang:  0.0185185185185
+	Jensen Li:  0.0138888888889
+	Kevin Zhang:  0.0138888888889
+	David Cheung:  0.0138888888889
+	Syed Adil:  0.0138888888889
+	Frances Thai:  0.0138888888889
+	Jason Tang:  0.0138888888889
+	Abraham Lin:  0.00925925925926
+	Alice Chan:  0.00925925925926
+	Felicia Lin:  0.00925925925926
+	Mandy Chan:  0.00925925925926
+	Raymond Tong:  0.00925925925926
+	Lei Ye:  0.00462962962963
+	Brandon Ye:  0.00462962962963
+	Wesley Snipes Trương:  0.00462962962963
+	Felicia Fang:  0.00462962962963
+	Emily Liu:  0.00462962962963
+	Evelyn Wang:  0.00462962962963
+	Arthur Liou:  0.00462962962963
+	Roselynn Chang:  0.00462962962963
+	Kevin Lee:  0.00462962962963
+	Caroline Chen:  0.00462962962963
+	Christine Shih:  0.00462962962963
+	Izzy Xu:  0.00462962962963
+	Thomas Warloe:  0.00462962962963
+	David Sohng:  0.00462962962963
+	Molly Yee:  0.00462962962963
+	Kenneth Lui:  0.00462962962963
+	Emmy Pham:  0.00462962962963
+	Alan Zhang:  0.00462962962963
+
+Jason Tang
+	Haruko Ayabe:  0.0952380952381
+	Andrea Kwan:  0.0833333333333
+	Alex Takahashi:  0.0714285714286
+	William Cheung:  0.0595238095238
+	Evelyn Wang:  0.047619047619
+	Ben Lin:  0.047619047619
+	Eric Quach:  0.0357142857143
+	Albert Lin:  0.0357142857143
+	Sammy Tong:  0.0357142857143
+	Eric Park:  0.0357142857143
+	Hammad Khan:  0.0357142857143
+	Betina Yin:  0.0357142857143
+	Cate Liu:  0.0357142857143
+	Frances Thai:  0.0357142857143
+	Grace Kim:  0.0357142857143
+	Abraham Lin:  0.0238095238095
+	David Liu:  0.0238095238095
+	Keien Ohta:  0.0238095238095
+	Sophie Wan:  0.0238095238095
+	Alex Wang:  0.0238095238095
+	Zhitong Qiu:  0.0119047619048
+	Felicia Fang:  0.0119047619048
+	Alice Sun:  0.0119047619048
+	David Cheung:  0.0119047619048
+	Joey Choi:  0.0119047619048
+	Syed Adil:  0.0119047619048
+	Christine Shih:  0.0119047619048
+	Izzy Xu:  0.0119047619048
+	Thomas Warloe:  0.0119047619048
+	Raymond Tong:  0.0119047619048
+	Jae Hoonhoon Kim:  0.0119047619048
+	Patrick Chang:  0.0119047619048
+	Alan Zhang:  0.0119047619048
+
+David Liu
+	Haruko Ayabe:  0.172413793103
+	Andrea Kwan:  0.137931034483
+	Alex Takahashi:  0.103448275862
+	Alice Sun:  0.0689655172414
+	Keien Ohta:  0.0689655172414
+	Evelyn Wang:  0.0689655172414
+	Lei Ye:  0.0344827586207
+	David Cheung:  0.0344827586207
+	Hammad Khan:  0.0344827586207
+	Frances Thai:  0.0344827586207
+	Patrick Chang:  0.0344827586207
+	Eric Quach:  0.0344827586207
+	Joey Choi:  0.0344827586207
+	Grace Kim:  0.0344827586207
+	Emily Liu:  0.0344827586207
+	Sophie Wan:  0.0344827586207
+	Felicia Lin:  0.0344827586207
+
+Aaron Chai
+	David Liu:  0.571428571429
+	David Cheung:  0.142857142857
+	Alice Sun:  0.142857142857
+	Haruko Ayabe:  0.142857142857
+
+Taichi Koga
+	Alex Takahashi:  0.172413793103
+	Andrea Kwan:  0.137931034483
+	Haruko Ayabe:  0.103448275862
+	Joey Choi:  0.0689655172414
+	David Cheung:  0.0689655172414
+	Grace Kim:  0.0689655172414
+	Kevin Zhang:  0.0344827586207
+	Evelyn Wang:  0.0344827586207
+	Frances Thai:  0.0344827586207
+	Eric Quach:  0.0344827586207
+	Phyllis Thai:  0.0344827586207
+	Betina Yin:  0.0344827586207
+	Kenneth Lui:  0.0344827586207
+	Alex Wang:  0.0344827586207
+	Felicia Lin:  0.0344827586207
+	Alan Zhang:  0.0344827586207
+	Thomas Warloe:  0.0344827586207
+
+Julie Xiao
+	Alice Sun:  0.173913043478
+	David Liu:  0.0869565217391
+	Sammy Tong:  0.0869565217391
+	Grace Kim:  0.0869565217391
+	Andrea Kwan:  0.0869565217391
+	Haruko Ayabe:  0.0869565217391
+	Jae Hoonhoon Kim:  0.0434782608696
+	David Cheung:  0.0434782608696
+	Hammad Khan:  0.0434782608696
+	Eric Quach:  0.0434782608696
+	Betina Yin:  0.0434782608696
+	Felicia Fang:  0.0434782608696
+	Lei Ye:  0.0434782608696
+	Keien Ohta:  0.0434782608696
+	Jensen Li:  0.0434782608696
+
+Farrah Tiffany
+	William Cheung:  0.181818181818
+	Sammy Tong:  0.0909090909091
+	Jason Tang:  0.0909090909091
+	Haruko Ayabe:  0.0909090909091
+	Joey Choi:  0.0454545454545
+	David Liu:  0.0454545454545
+	Molly Yee:  0.0454545454545
+	Frances Thai:  0.0454545454545
+	Eric Quach:  0.0454545454545
+	Mandy Chan:  0.0454545454545
+	Betina Yin:  0.0454545454545
+	Felicia Fang:  0.0454545454545
+	Eric Park:  0.0454545454545
+	Alice Sun:  0.0454545454545
+	Lei Ye:  0.0454545454545
+	Evelyn Wang:  0.0454545454545
+
+Grace Kim
+	Alex Takahashi:  0.204545454545
+	Haruko Ayabe:  0.159090909091
+	Andrea Kwan:  0.0681818181818
+	Cate Liu:  0.0681818181818
+	Sammy Tong:  0.0454545454545
+	Jensen Li:  0.0454545454545
+	David Cheung:  0.0454545454545
+	Jason Tang:  0.0454545454545
+	Abraham Lin:  0.0227272727273
+	Alice Sun:  0.0227272727273
+	Alice Chan:  0.0227272727273
+	Jae Hoonhoon Kim:  0.0227272727273
+	Arthur Liou:  0.0227272727273
+	Ben Lin:  0.0227272727273
+	William Cheung:  0.0227272727273
+	Syed Adil:  0.0227272727273
+	Keien Ohta:  0.0227272727273
+	Sophie Wan:  0.0227272727273
+	Molly Yee:  0.0227272727273
+	Alex Wang:  0.0227272727273
+	Patrick Chang:  0.0227272727273
+	Alan Zhang:  0.0227272727273
+
+Abraham Lin
+	Ben Lin:  0.121212121212
+	Eric Park:  0.0909090909091
+	Albert Lin:  0.0606060606061
+	Jae Hoonhoon Kim:  0.0606060606061
+	David Cheung:  0.0606060606061
+	Haruko Ayabe:  0.0606060606061
+	Jason Tang:  0.0606060606061
+	Eric Quach:  0.030303030303
+	Alice Chan:  0.030303030303
+	Jensen Li:  0.030303030303
+	Kevin Zhang:  0.030303030303
+	Alex Takahashi:  0.030303030303
+	Joey Choi:  0.030303030303
+	William Cheung:  0.030303030303
+	Andrea Kwan:  0.030303030303
+	Hammad Khan:  0.030303030303
+	Mandy Chan:  0.030303030303
+	Cate Liu:  0.030303030303
+	Keien Ohta:  0.030303030303
+	Molly Yee:  0.030303030303
+	Frances Thai:  0.030303030303
+	Grace Kim:  0.030303030303
+	Patrick Chang:  0.030303030303
+
+Tina Rongpei Zhang
+	David Liu:  0.285714285714
+	William Cheung:  0.0714285714286
+	David Cheung:  0.0714285714286
+	Alice Sun:  0.047619047619
+	Haruko Ayabe:  0.047619047619
+	Evelyn Wang:  0.047619047619
+	Betina Yin:  0.047619047619
+	Cate Liu:  0.047619047619
+	Alice Chan:  0.0238095238095
+	Sammy Tong:  0.0238095238095
+	Lei Ye:  0.0238095238095
+	Hammad Khan:  0.0238095238095
+	Izzy Xu:  0.0238095238095
+	Alex Takahashi:  0.0238095238095
+	Eric Quach:  0.0238095238095
+	Eric Park:  0.0238095238095
+	Andrea Kwan:  0.0238095238095
+	Felicia Lin:  0.0238095238095
+	Sophie Wan:  0.0238095238095
+	Frances Thai:  0.0238095238095
+	Jason Tang:  0.0238095238095
+	Patrick Chang:  0.0238095238095
+
+Frances Thai
+	Alex Takahashi:  0.200892857143
+	Andrea Kwan:  0.0848214285714
+	Haruko Ayabe:  0.0758928571429
+	Hammad Khan:  0.0401785714286
+	David Liu:  0.0401785714286
+	Joey Choi:  0.0357142857143
+	Albert Lin:  0.0357142857143
+	Eric Park:  0.03125
+	Patrick Chang:  0.03125
+	Eric Quach:  0.0267857142857
+	Sophie Wan:  0.0267857142857
+	Abraham Lin:  0.0223214285714
+	Jae Hoonhoon Kim:  0.0223214285714
+	Ben Lin:  0.0223214285714
+	William Cheung:  0.0223214285714
+	Phyllis Thai:  0.0223214285714
+	Cate Liu:  0.0223214285714
+	David Cheung:  0.0178571428571
+	Sammy Tong:  0.0178571428571
+	Betina Yin:  0.0178571428571
+	Alice Sun:  0.0133928571429
+	Raymond Tong:  0.0133928571429
+	Grace Kim:  0.0133928571429
+	Jason Tang:  0.0133928571429
+	Alex Wang:  0.0133928571429
+	Felicia Fang:  0.00892857142857
+	Jensen Li:  0.00892857142857
+	Alven Wang:  0.00892857142857
+	Alice Chan:  0.00446428571429
+	Karl Viktor Ravancho:  0.00446428571429
+	Wesley Snipes Trương:  0.00446428571429
+	Emily Liu:  0.00446428571429
+	Johnny Wang:  0.00446428571429
+	Evelyn Wang:  0.00446428571429
+	Kevin Yin:  0.00446428571429
+	Kevin Zhang:  0.00446428571429
+	Roselynn Chang:  0.00446428571429
+	Syed Adil:  0.00446428571429
+	Mandy Chan:  0.00446428571429
+	Caroline Chen:  0.00446428571429
+	Christine Shih:  0.00446428571429
+	Lei Ye:  0.00446428571429
+	Allen Chen:  0.00446428571429
+	Thomas Warloe:  0.00446428571429
+	Molly Yee:  0.00446428571429
+	David Sohng:  0.00446428571429
+	Kenneth Lui:  0.00446428571429
+	Alan Zhang:  0.00446428571429
+
+Molly Yee
+	Alex Takahashi:  0.125
+	Andrea Kwan:  0.125
+	Jae Hoonhoon Kim:  0.0833333333333
+	Cate Liu:  0.0833333333333
+	William Cheung:  0.0416666666667
+	Brandon Ye:  0.0416666666667
+	Evelyn Wang:  0.0416666666667
+	Frances Thai:  0.0416666666667
+	Ben Lin:  0.0416666666667
+	Eric Quach:  0.0416666666667
+	Joey Choi:  0.0416666666667
+	Betina Yin:  0.0416666666667
+	Wesley Snipes Trương:  0.0416666666667
+	Abraham Lin:  0.0416666666667
+	Emily Liu:  0.0416666666667
+	Alice Chan:  0.0416666666667
+	Caroline Chen:  0.0416666666667
+	Jensen Li:  0.0416666666667
+
+Kevin Li
+	Eric Quach:  0.4
+	Haruko Ayabe:  0.2
+	Grace Kim:  0.1
+	Jae Hoonhoon Kim:  0.05
+	Brandon Ye:  0.05
+	Molly Yee:  0.05
+	Jason Tang:  0.05
+	Patrick Chang:  0.05
+	Alan Zhang:  0.05
+
+David Sohng
+	Alex Takahashi:  0.194444444444
+	Grace Kim:  0.111111111111
+	Haruko Ayabe:  0.111111111111
+	Keien Ohta:  0.0555555555556
+	Andrea Kwan:  0.0555555555556
+	Patrick Chang:  0.0555555555556
+	Raymond Tong:  0.0555555555556
+	Roselynn Chang:  0.0277777777778
+	Jae Hoonhoon Kim:  0.0277777777778
+	Ben Lin:  0.0277777777778
+	Eric Quach:  0.0277777777778
+	Joey Choi:  0.0277777777778
+	Mandy Chan:  0.0277777777778
+	Wesley Snipes Trương:  0.0277777777778
+	Felicia Fang:  0.0277777777778
+	Eric Park:  0.0277777777778
+	Betina Yin:  0.0277777777778
+	Johnny Wang:  0.0277777777778
+	Albert Lin:  0.0277777777778
+	Jensen Li:  0.0277777777778
+
+Raymond Tong
+	Alex Takahashi:  0.136842105263
+	Andrea Kwan:  0.0947368421053
+	Haruko Ayabe:  0.0736842105263
+	Sammy Tong:  0.0421052631579
+	David Cheung:  0.0421052631579
+	Eric Quach:  0.0421052631579
+	Sophie Wan:  0.0421052631579
+	Alice Sun:  0.0315789473684
+	David Liu:  0.0315789473684
+	Hammad Khan:  0.0315789473684
+	Phyllis Thai:  0.0315789473684
+	Frances Thai:  0.0315789473684
+	Alex Wang:  0.0315789473684
+	Patrick Chang:  0.0315789473684
+	Alice Chan:  0.0210526315789
+	Zhitong Qiu:  0.0210526315789
+	Abraham Lin:  0.0210526315789
+	Kevin Zhang:  0.0210526315789
+	Eric Park:  0.0210526315789
+	Keien Ohta:  0.0210526315789
+	William Cheung:  0.0210526315789
+	Betina Yin:  0.0210526315789
+	Cate Liu:  0.0210526315789
+	Alven Wang:  0.0210526315789
+	Grace Kim:  0.0210526315789
+	Jae Hoonhoon Kim:  0.0210526315789
+	Felicia Fang:  0.0105263157895
+	Johnny Wang:  0.0105263157895
+	Albert Lin:  0.0105263157895
+	Evelyn Wang:  0.0105263157895
+	Allen Chen:  0.0105263157895
+
+Lawrence Liu
+	Grace Kim:  0.137931034483
+	Sophie Wan:  0.103448275862
+	Haruko Ayabe:  0.103448275862
+	Jason Tang:  0.0689655172414
+	Andrea Kwan:  0.0689655172414
+	Patrick Chang:  0.0689655172414
+	Phyllis Thai:  0.0344827586207
+	Molly Yee:  0.0344827586207
+	Ben Lin:  0.0344827586207
+	Christine Shih:  0.0344827586207
+	Mandy Chan:  0.0344827586207
+	Betina Yin:  0.0344827586207
+	Alven Wang:  0.0344827586207
+	Felicia Fang:  0.0344827586207
+	Eric Park:  0.0344827586207
+	William Cheung:  0.0344827586207
+	Abraham Lin:  0.0344827586207
+	Albert Lin:  0.0344827586207
+	Raymond Tong:  0.0344827586207
+
+Kevin Lee
+	Haruko Ayabe:  0.157894736842
+	Andrea Kwan:  0.0701754385965
+	Hammad Khan:  0.0701754385965
+	Sammy Tong:  0.0526315789474
+	Kevin Zhang:  0.0526315789474
+	Alex Takahashi:  0.0526315789474
+	Eric Park:  0.0526315789474
+	Sophie Wan:  0.0526315789474
+	Alex Wang:  0.0526315789474
+	Patrick Chang:  0.0526315789474
+	Alice Sun:  0.0350877192982
+	Cate Liu:  0.0350877192982
+	Jae Hoonhoon Kim:  0.0350877192982
+	Alven Wang:  0.0175438596491
+	Felicia Fang:  0.0175438596491
+	Emily Liu:  0.0175438596491
+	Betina Yin:  0.0175438596491
+	Lei Ye:  0.0175438596491
+	David Liu:  0.0175438596491
+	William Cheung:  0.0175438596491
+	Mandy Chan:  0.0175438596491
+	Phyllis Thai:  0.0175438596491
+	Thomas Warloe:  0.0175438596491
+	Keien Ohta:  0.0175438596491
+	Frances Thai:  0.0175438596491
+	Jason Tang:  0.0175438596491
+
+Alven Wang
+	Alex Takahashi:  0.124378109453
+	Haruko Ayabe:  0.109452736318
+	Andrea Kwan:  0.0845771144279
+	David Liu:  0.0497512437811
+	Eric Park:  0.044776119403
+	Cate Liu:  0.044776119403
+	Eric Quach:  0.0348258706468
+	Jae Hoonhoon Kim:  0.0348258706468
+	Sophie Wan:  0.0348258706468
+	Patrick Chang:  0.0248756218905
+	Abraham Lin:  0.0199004975124
+	Alice Sun:  0.0199004975124
+	Jensen Li:  0.0199004975124
+	Evelyn Wang:  0.0199004975124
+	Albert Lin:  0.0199004975124
+	David Cheung:  0.0199004975124
+	Sammy Tong:  0.0199004975124
+	Joey Choi:  0.0199004975124
+	William Cheung:  0.0199004975124
+	Hammad Khan:  0.0199004975124
+	Grace Kim:  0.0199004975124
+	Alice Chan:  0.0149253731343
+	Phyllis Thai:  0.0149253731343
+	Raymond Tong:  0.0149253731343
+	Frances Thai:  0.0149253731343
+	Jason Tang:  0.0149253731343
+	Felicia Fang:  0.00995024875622
+	Kevin Zhang:  0.00995024875622
+	Ben Lin:  0.00995024875622
+	Mandy Chan:  0.00995024875622
+	Zhitong Qiu:  0.00995024875622
+	Wesley Snipes Trương:  0.00497512437811
+	Emily Liu:  0.00497512437811
+	Johnny Wang:  0.00497512437811
+	Kevin Lee:  0.00497512437811
+	Syed Adil:  0.00497512437811
+	Felicia Lin:  0.00497512437811
+	Betina Yin:  0.00497512437811
+	Allen Chen:  0.00497512437811
+	Thomas Warloe:  0.00497512437811
+	David Sohng:  0.00497512437811
+	Kenneth Lui:  0.00497512437811
+	Emmy Pham:  0.00497512437811
+	Alex Wang:  0.00497512437811
+	Alan Zhang:  0.00497512437811
+
+Izzy Xu
+	William Cheung:  0.153846153846
+	Jason Tang:  0.153846153846
+	Evelyn Wang:  0.115384615385
+	David Liu:  0.0769230769231
+	Sammy Tong:  0.0769230769231
+	Alex Takahashi:  0.0769230769231
+	Haruko Ayabe:  0.0769230769231
+	Eric Park:  0.0384615384615
+	Phyllis Thai:  0.0384615384615
+	Karl Viktor Ravancho:  0.0384615384615
+	Abraham Lin:  0.0384615384615
+	Alice Sun:  0.0384615384615
+	Alice Chan:  0.0384615384615
+	Andrea Kwan:  0.0384615384615
+
+Allen Chen
+	Alex Takahashi:  0.323529411765
+	Haruko Ayabe:  0.0882352941176
+	Phyllis Thai:  0.0588235294118
+	Andrea Kwan:  0.0588235294118
+	Jae Hoonhoon Kim:  0.0294117647059
+	David Cheung:  0.0294117647059
+	Frances Thai:  0.0294117647059
+	Eric Quach:  0.0294117647059
+	Christine Shih:  0.0294117647059
+	Mandy Chan:  0.0294117647059
+	Kevin Lee:  0.0294117647059
+	David Liu:  0.0294117647059
+	Abraham Lin:  0.0294117647059
+	William Cheung:  0.0294117647059
+	Alice Sun:  0.0294117647059
+	Allen Chen:  0.0294117647059
+	Albert Lin:  0.0294117647059
+	Patrick Chang:  0.0294117647059
+	Kevin Yin:  0.0294117647059
+	Raymond Tong:  0.0294117647059
+
+Crystal Leung
+	Patrick Chang:  0.222222222222
+	Haruko Ayabe:  0.222222222222
+	Eric Quach:  0.111111111111
+	Alex Takahashi:  0.111111111111
+	Phyllis Thai:  0.111111111111
+	Grace Kim:  0.111111111111
+	William Cheung:  0.111111111111
+
+Robert Zhang
+	Phyllis Thai:  0.285714285714
+	Haruko Ayabe:  0.285714285714
+	Christine Shih:  0.142857142857
+	Patrick Chang:  0.142857142857
+	Alex Takahashi:  0.142857142857
+
+Cate Liu
+	Andrea Kwan:  0.122580645161
+	Haruko Ayabe:  0.0838709677419
+	David Liu:  0.0709677419355
+	Alex Takahashi:  0.0709677419355
+	Eric Park:  0.0451612903226
+	William Cheung:  0.0451612903226
+	Eric Quach:  0.0387096774194
+	Joey Choi:  0.0387096774194
+	Betina Yin:  0.0322580645161
+	Patrick Chang:  0.0322580645161
+	Evelyn Wang:  0.0258064516129
+	Sammy Tong:  0.0258064516129
+	Hammad Khan:  0.0258064516129
+	Jae Hoonhoon Kim:  0.0258064516129
+	Sophie Wan:  0.0258064516129
+	Grace Kim:  0.0258064516129
+	Jason Tang:  0.0258064516129
+	Jensen Li:  0.0193548387097
+	Keien Ohta:  0.0193548387097
+	Frances Thai:  0.0193548387097
+	Alice Chan:  0.0129032258065
+	Alice Sun:  0.0129032258065
+	David Cheung:  0.0129032258065
+	Mandy Chan:  0.0129032258065
+	Alven Wang:  0.0129032258065
+	Brandon Ye:  0.00645161290323
+	Karl Viktor Ravancho:  0.00645161290323
+	Wesley Snipes Trương:  0.00645161290323
+	Felicia Fang:  0.00645161290323
+	Emily Liu:  0.00645161290323
+	Johnny Wang:  0.00645161290323
+	Albert Lin:  0.00645161290323
+	Kevin Zhang:  0.00645161290323
+	Ben Lin:  0.00645161290323
+	Syed Adil:  0.00645161290323
+	Felicia Lin:  0.00645161290323
+	Caroline Chen:  0.00645161290323
+	Christine Shih:  0.00645161290323
+	Phyllis Thai:  0.00645161290323
+	Lei Ye:  0.00645161290323
+	Raymond Tong:  0.00645161290323
+	Molly Yee:  0.00645161290323
+	Alan Zhang:  0.00645161290323
+
+Rouhin Ghosh
+	Alex Takahashi:  0.184615384615
+	Haruko Ayabe:  0.0923076923077
+	Eric Park:  0.0615384615385
+	Jason Tang:  0.0615384615385
+	Abraham Lin:  0.0461538461538
+	David Liu:  0.0461538461538
+	Hammad Khan:  0.0461538461538
+	Frances Thai:  0.0461538461538
+	Patrick Chang:  0.0461538461538
+	Eric Quach:  0.0307692307692
+	Andrea Kwan:  0.0307692307692
+	Grace Kim:  0.0307692307692
+	Karl Viktor Ravancho:  0.0153846153846
+	Alven Wang:  0.0153846153846
+	Alice Sun:  0.0153846153846
+	Lei Ye:  0.0153846153846
+	Izzy Xu:  0.0153846153846
+	Emmy Pham:  0.0153846153846
+	Joey Choi:  0.0153846153846
+	William Cheung:  0.0153846153846
+	Syed Adil:  0.0153846153846
+	Mandy Chan:  0.0153846153846
+	Thomas Warloe:  0.0153846153846
+	Jae Hoonhoon Kim:  0.0153846153846
+	Allen Chen:  0.0153846153846
+	Kevin Lee:  0.0153846153846
+	Raymond Tong:  0.0153846153846
+	Cate Liu:  0.0153846153846
+	Kenneth Lui:  0.0153846153846
+	Alex Wang:  0.0153846153846
+
+Betina Yin
+	Alex Takahashi:  0.157534246575
+	Andrea Kwan:  0.123287671233
+	Haruko Ayabe:  0.109589041096
+	William Cheung:  0.0547945205479
+	Cate Liu:  0.0479452054795
+	Hammad Khan:  0.041095890411
+	Eric Quach:  0.0342465753425
+	Evelyn Wang:  0.0342465753425
+	David Liu:  0.0342465753425
+	Sammy Tong:  0.027397260274
+	Albert Lin:  0.0205479452055
+	Jensen Li:  0.0205479452055
+	David Cheung:  0.0205479452055
+	Ben Lin:  0.0205479452055
+	Eric Park:  0.0205479452055
+	Jae Hoonhoon Kim:  0.0205479452055
+	Patrick Chang:  0.0205479452055
+	Alice Chan:  0.013698630137
+	Joey Choi:  0.013698630137
+	Mandy Chan:  0.013698630137
+	Phyllis Thai:  0.013698630137
+	Sophie Wan:  0.013698630137
+	Raymond Tong:  0.013698630137
+	Grace Kim:  0.013698630137
+	Jason Tang:  0.013698630137
+	Alven Wang:  0.00684931506849
+	Keien Ohta:  0.00684931506849
+	Wesley Snipes Trương:  0.00684931506849
+	Alice Sun:  0.00684931506849
+	Kevin Zhang:  0.00684931506849
+	Felicia Lin:  0.00684931506849
+	Betina Yin:  0.00684931506849
+	Allen Chen:  0.00684931506849
+	Zhitong Qiu:  0.00684931506849
+	Thomas Warloe:  0.00684931506849
+	Frances Thai:  0.00684931506849
+	Alex Wang:  0.00684931506849
+
+Phyllis Thai
+	Haruko Ayabe:  0.16393442623
+	Eric Park:  0.0819672131148
+	Andrea Kwan:  0.0655737704918
+	Keien Ohta:  0.0491803278689
+	Eric Quach:  0.0491803278689
+	David Liu:  0.0491803278689
+	Frances Thai:  0.0491803278689
+	Abraham Lin:  0.0327868852459
+	Ben Lin:  0.0327868852459
+	Alex Takahashi:  0.0327868852459
+	William Cheung:  0.0327868852459
+	Hammad Khan:  0.0327868852459
+	Mandy Chan:  0.0327868852459
+	Alex Wang:  0.0327868852459
+	Brandon Ye:  0.016393442623
+	Sammy Tong:  0.016393442623
+	Karl Viktor Ravancho:  0.016393442623
+	Wesley Snipes Trương:  0.016393442623
+	Alice Sun:  0.016393442623
+	Jensen Li:  0.016393442623
+	Albert Lin:  0.016393442623
+	Kevin Zhang:  0.016393442623
+	Jae Hoonhoon Kim:  0.016393442623
+	David Cheung:  0.016393442623
+	Joey Choi:  0.016393442623
+	Christine Shih:  0.016393442623
+	Allen Chen:  0.016393442623
+	Sophie Wan:  0.016393442623
+	Grace Kim:  0.016393442623
+	Patrick Chang:  0.016393442623
+
+Janet Dong
+	Mandy Chan:  0.25
+	David Liu:  0.25
+	Izzy Xu:  0.25
+	Haruko Ayabe:  0.25
+
+Christine Shih
+	Haruko Ayabe:  0.109589041096
+	Andrea Kwan:  0.0958904109589
+	Alex Takahashi:  0.0684931506849
+	Eric Quach:  0.0684931506849
+	William Cheung:  0.0684931506849
+	Cate Liu:  0.0547945205479
+	Sophie Wan:  0.0547945205479
+	Sammy Tong:  0.041095890411
+	Eric Park:  0.041095890411
+	Phyllis Thai:  0.041095890411
+	David Liu:  0.041095890411
+	Alven Wang:  0.027397260274
+	Albert Lin:  0.027397260274
+	Joey Choi:  0.027397260274
+	Mandy Chan:  0.027397260274
+	Felicia Fang:  0.013698630137
+	Abraham Lin:  0.013698630137
+	Emily Liu:  0.013698630137
+	Alice Sun:  0.013698630137
+	Alice Chan:  0.013698630137
+	Evelyn Wang:  0.013698630137
+	Jae Hoonhoon Kim:  0.013698630137
+	David Cheung:  0.013698630137
+	Caroline Chen:  0.013698630137
+	Hammad Khan:  0.013698630137
+	Allen Chen:  0.013698630137
+	Izzy Xu:  0.013698630137
+	Wesley Snipes Trương:  0.013698630137
+	Frances Thai:  0.013698630137
+	Jason Tang:  0.013698630137
+
+Hammad Khan
+	Alex Takahashi:  0.185185185185
+	Eric Park:  0.0740740740741
+	Andrea Kwan:  0.0740740740741
+	Evelyn Wang:  0.0740740740741
+	Eric Quach:  0.0555555555556
+	Haruko Ayabe:  0.0555555555556
+	Jensen Li:  0.037037037037
+	David Liu:  0.037037037037
+	Joey Choi:  0.037037037037
+	Frances Thai:  0.037037037037
+	Grace Kim:  0.037037037037
+	Alex Wang:  0.037037037037
+	Alice Chan:  0.0185185185185
+	Sammy Tong:  0.0185185185185
+	Karl Viktor Ravancho:  0.0185185185185
+	Abraham Lin:  0.0185185185185
+	Alice Sun:  0.0185185185185
+	Lei Ye:  0.0185185185185
+	Albert Lin:  0.0185185185185
+	David Cheung:  0.0185185185185
+	Arthur Liou:  0.0185185185185
+	Ben Lin:  0.0185185185185
+	Phyllis Thai:  0.0185185185185
+	Keien Ohta:  0.0185185185185
+	Raymond Tong:  0.0185185185185
+	Patrick Chang:  0.0185185185185
+
+Caroline Chen
+	Haruko Ayabe:  0.129032258065
+	David Liu:  0.0967741935484
+	Jae Hoonhoon Kim:  0.0967741935484
+	Albert Lin:  0.0967741935484
+	Frances Thai:  0.0645161290323
+	Eric Quach:  0.0645161290323
+	Alex Takahashi:  0.0645161290323
+	Cate Liu:  0.0645161290323
+	Phyllis Thai:  0.0645161290323
+	Molly Yee:  0.0322580645161
+	Thomas Warloe:  0.0322580645161
+	Alice Chan:  0.0322580645161
+	Andrea Kwan:  0.0322580645161
+	Allen Chen:  0.0322580645161
+	Alex Wang:  0.0322580645161
+	Sammy Tong:  0.0322580645161
+	Patrick Chang:  0.0322580645161
+
+Narie Grewal
+	Alex Takahashi:  0.25
+	Ben Lin:  0.125
+	Grace Kim:  0.125
+	Cate Liu:  0.125
+	Alice Sun:  0.125
+	Jensen Li:  0.125
+	Haruko Ayabe:  0.125
+
+Zhitong Qiu
+	Patrick Chang:  0.14
+	Alex Takahashi:  0.08
+	Andrea Kwan:  0.08
+	David Liu:  0.06
+	Betina Yin:  0.06
+	Alven Wang:  0.04
+	Alice Chan:  0.04
+	Eric Park:  0.04
+	Haruko Ayabe:  0.04
+	Keien Ohta:  0.04
+	Grace Kim:  0.04
+	Sammy Tong:  0.02
+	Abraham Lin:  0.02
+	Alice Sun:  0.02
+	Albert Lin:  0.02
+	Evelyn Wang:  0.02
+	David Cheung:  0.02
+	Ben Lin:  0.02
+	Emmy Pham:  0.02
+	Joey Choi:  0.02
+	Mandy Chan:  0.02
+	Hammad Khan:  0.02
+	Phyllis Thai:  0.02
+	Cate Liu:  0.02
+	Molly Yee:  0.02
+	Eric Quach:  0.02
+	Jae Hoonhoon Kim:  0.02
+	Jason Tang:  0.02
+
+Haruko Ayabe
+	Alex Takahashi:  0.134969325153
+	Andrea Kwan:  0.0858895705521
+	David Liu:  0.0613496932515
+	Grace Kim:  0.0429447852761
+	Evelyn Wang:  0.0306748466258
+	Jae Hoonhoon Kim:  0.0306748466258
+	Joey Choi:  0.0306748466258
+	William Cheung:  0.0306748466258
+	Cate Liu:  0.0306748466258
+	Raymond Tong:  0.0306748466258
+	Eric Quach:  0.0245398773006
+	Eric Park:  0.0245398773006
+	Hammad Khan:  0.0245398773006
+	Sophie Wan:  0.0245398773006
+	Patrick Chang:  0.0245398773006
+	Alven Wang:  0.0184049079755
+	Alice Sun:  0.0184049079755
+	Albert Lin:  0.0184049079755
+	Ben Lin:  0.0184049079755
+	Syed Adil:  0.0184049079755
+	Phyllis Thai:  0.0184049079755
+	Betina Yin:  0.0184049079755
+	Jason Tang:  0.0184049079755
+	Keien Ohta:  0.0122699386503
+	Sammy Tong:  0.0122699386503
+	Abraham Lin:  0.0122699386503
+	Jensen Li:  0.0122699386503
+	Kevin Zhang:  0.0122699386503
+	David Cheung:  0.0122699386503
+	Mandy Chan:  0.0122699386503
+	Allen Chen:  0.0122699386503
+	Frances Thai:  0.0122699386503
+	Brandon Ye:  0.00613496932515
+	Karl Viktor Ravancho:  0.00613496932515
+	Felicia Fang:  0.00613496932515
+	Emily Liu:  0.00613496932515
+	Lei Ye:  0.00613496932515
+	Kevin Yin:  0.00613496932515
+	Arthur Liou:  0.00613496932515
+	Alice Chan:  0.00613496932515
+	Felicia Lin:  0.00613496932515
+	Christine Shih:  0.00613496932515
+	Izzy Xu:  0.00613496932515
+	Zhitong Qiu:  0.00613496932515
+	Thomas Warloe:  0.00613496932515
+	Molly Yee:  0.00613496932515
+	Kenneth Lui:  0.00613496932515
+	Alex Wang:  0.00613496932515
+	Farrah Tiffany:  0.00613496932515
+	Alan Zhang:  0.00613496932515
+
+Felicia Lin
+	Alex Takahashi:  0.104761904762
+	Haruko Ayabe:  0.0857142857143
+	David Liu:  0.0666666666667
+	Andrea Kwan:  0.0666666666667
+	Eric Park:  0.0571428571429
+	Phyllis Thai:  0.0380952380952
+	Alex Wang:  0.0380952380952
+	Alice Sun:  0.0285714285714
+	Albert Lin:  0.0285714285714
+	David Cheung:  0.0285714285714
+	Ben Lin:  0.0285714285714
+	Syed Adil:  0.0285714285714
+	Hammad Khan:  0.0285714285714
+	Patrick Chang:  0.0285714285714
+	Joey Choi:  0.0190476190476
+	Evelyn Wang:  0.0190476190476
+	Eric Quach:  0.0190476190476
+	William Cheung:  0.0190476190476
+	Keien Ohta:  0.0190476190476
+	Sophie Wan:  0.0190476190476
+	Cate Liu:  0.0190476190476
+	Frances Thai:  0.0190476190476
+	Grace Kim:  0.0190476190476
+	Jason Tang:  0.0190476190476
+	Alice Chan:  0.00952380952381
+	Brandon Ye:  0.00952380952381
+	Sammy Tong:  0.00952380952381
+	Alven Wang:  0.00952380952381
+	Abraham Lin:  0.00952380952381
+	Lei Ye:  0.00952380952381
+	Jensen Li:  0.00952380952381
+	Kevin Zhang:  0.00952380952381
+	Arthur Liou:  0.00952380952381
+	Roselynn Chang:  0.00952380952381
+	Caroline Chen:  0.00952380952381
+	Christine Shih:  0.00952380952381
+	Betina Yin:  0.00952380952381
+	Jae Hoonhoon Kim:  0.00952380952381
+	Zhitong Qiu:  0.00952380952381
+	Raymond Tong:  0.00952380952381
+
+Lei Ye
+	David Liu:  0.375
+	Evelyn Wang:  0.125
+	Frances Thai:  0.125
+	Alex Takahashi:  0.125
+	Joey Choi:  0.125
+	Keien Ohta:  0.125
+
+Andrea Kwan
+	Haruko Ayabe:  0.12
+	Alex Takahashi:  0.1
+	Grace Kim:  0.06
+	David Liu:  0.04
+	David Cheung:  0.04
+	Ben Lin:  0.04
+	Eric Park:  0.04
+	Cate Liu:  0.04
+	Raymond Tong:  0.04
+	Frances Thai:  0.04
+	Patrick Chang:  0.04
+	Alven Wang:  0.02
+	Eric Quach:  0.02
+	Zhitong Qiu:  0.02
+	Felicia Fang:  0.02
+	Abraham Lin:  0.02
+	Alice Sun:  0.02
+	Lei Ye:  0.02
+	Jensen Li:  0.02
+	Evelyn Wang:  0.02
+	Albert Lin:  0.02
+	Sammy Tong:  0.02
+	William Cheung:  0.02
+	Felicia Lin:  0.02
+	Caroline Chen:  0.02
+	Hammad Khan:  0.02
+	Betina Yin:  0.02
+	Keien Ohta:  0.02
+	Wesley Snipes Trương:  0.02
+	Sophie Wan:  0.02
+	Jason Tang:  0.02
+
+Syed Adil
+	David Liu:  0.121951219512
+	William Cheung:  0.121951219512
+	Haruko Ayabe:  0.0731707317073
+	Grace Kim:  0.0731707317073
+	Felicia Fang:  0.0487804878049
+	Joey Choi:  0.0487804878049
+	Andrea Kwan:  0.0487804878049
+	Keien Ohta:  0.0487804878049
+	Sophie Wan:  0.0487804878049
+	Jason Tang:  0.0487804878049
+	Lei Ye:  0.0243902439024
+	Alice Sun:  0.0243902439024
+	Johnny Wang:  0.0243902439024
+	Jensen Li:  0.0243902439024
+	Evelyn Wang:  0.0243902439024
+	David Cheung:  0.0243902439024
+	Alex Takahashi:  0.0243902439024
+	Hammad Khan:  0.0243902439024
+	Betina Yin:  0.0243902439024
+	Cate Liu:  0.0243902439024
+	Frances Thai:  0.0243902439024
+	David Sohng:  0.0243902439024
+	Patrick Chang:  0.0243902439024
+
+Kenneth Lui
+	Abraham Lin:  0.2
+	David Cheung:  0.2
+	David Sohng:  0.2
+	Patrick Chang:  0.2
+	Alex Takahashi:  0.2
+
+Catherine Su
+	Eric Quach:  0.25
+	Haruko Ayabe:  0.15
+	Alex Wang:  0.1
+	Betina Yin:  0.05
+	Brandon Ye:  0.05
+	Alex Takahashi:  0.05
+	Sammy Tong:  0.05
+	Thomas Warloe:  0.05
+	Cate Liu:  0.05
+	Keien Ohta:  0.05
+	Allen Chen:  0.05
+	Jason Tang:  0.05
+	Jensen Li:  0.05
+
+Roselynn Chang
+	Evelyn Wang:  0.133333333333
+	Sammy Tong:  0.0666666666667
+	Alex Takahashi:  0.0666666666667
+	Haruko Ayabe:  0.0666666666667
+	Betina Yin:  0.0666666666667
+	Jason Tang:  0.0666666666667
+	Alven Wang:  0.0333333333333
+	Alice Sun:  0.0333333333333
+	Johnny Wang:  0.0333333333333
+	Hammad Khan:  0.0333333333333
+	David Liu:  0.0333333333333
+	Izzy Xu:  0.0333333333333
+	Ben Lin:  0.0333333333333
+	Joey Choi:  0.0333333333333
+	Eric Park:  0.0333333333333
+	William Cheung:  0.0333333333333
+	Andrea Kwan:  0.0333333333333
+	Cate Liu:  0.0333333333333
+	David Cheung:  0.0333333333333
+	Sophie Wan:  0.0333333333333
+	Grace Kim:  0.0333333333333
+	Patrick Chang:  0.0333333333333
+
+William Cheung
+	David Liu:  0.145833333333
+	Alex Takahashi:  0.0833333333333
+	Haruko Ayabe:  0.0833333333333
+	Evelyn Wang:  0.0625
+	Jason Tang:  0.0625
+	Kevin Zhang:  0.0416666666667
+	Betina Yin:  0.0416666666667
+	David Cheung:  0.0416666666667
+	Cate Liu:  0.0416666666667
+	Sophie Wan:  0.0416666666667
+	Patrick Chang:  0.0416666666667
+	Eric Quach:  0.0208333333333
+	Emily Liu:  0.0208333333333
+	Alice Sun:  0.0208333333333
+	Alice Chan:  0.0208333333333
+	Jensen Li:  0.0208333333333
+	Arthur Liou:  0.0208333333333
+	Joey Choi:  0.0208333333333
+	Eric Park:  0.0208333333333
+	Andrea Kwan:  0.0208333333333
+	Phyllis Thai:  0.0208333333333
+	Thomas Warloe:  0.0208333333333
+	Izzy Xu:  0.0208333333333
+	Molly Yee:  0.0208333333333
+	Frances Thai:  0.0208333333333
+	Alex Wang:  0.0208333333333
+
+Eric Park
+	Alex Takahashi:  0.128571428571
+	Haruko Ayabe:  0.128571428571
+	Joey Choi:  0.0571428571429
+	Andrea Kwan:  0.0571428571429
+	Alex Wang:  0.0571428571429
+	Evelyn Wang:  0.0428571428571
+	Phyllis Thai:  0.0428571428571
+	David Liu:  0.0428571428571
+	Jason Tang:  0.0428571428571
+	Jensen Li:  0.0285714285714
+	Jae Hoonhoon Kim:  0.0285714285714
+	Arthur Liou:  0.0285714285714
+	William Cheung:  0.0285714285714
+	Betina Yin:  0.0285714285714
+	Cate Liu:  0.0285714285714
+	Eric Quach:  0.0142857142857
+	Zhitong Qiu:  0.0142857142857
+	Felicia Fang:  0.0142857142857
+	Abraham Lin:  0.0142857142857
+	Johnny Wang:  0.0142857142857
+	Sammy Tong:  0.0142857142857
+	Emmy Pham:  0.0142857142857
+	Syed Adil:  0.0142857142857
+	Keien Ohta:  0.0142857142857
+	Sophie Wan:  0.0142857142857
+	Raymond Tong:  0.0142857142857
+	Molly Yee:  0.0142857142857
+	David Sohng:  0.0142857142857
+	Grace Kim:  0.0142857142857
+	Kenneth Lui:  0.0142857142857
+	Patrick Chang:  0.0142857142857
+
+Johnny Wang
+	Andrea Kwan:  0.4
+	David Liu:  0.2
+	Patrick Chang:  0.2
+	Hammad Khan:  0.2
+
+Jeff Chow
+	Frances Thai:  0.166666666667
+	Eric Quach:  0.166666666667
+	Alex Takahashi:  0.166666666667
+	Betina Yin:  0.166666666667
+	Sophie Wan:  0.166666666667
+	Haruko Ayabe:  0.166666666667
+
+Joey Choi
+	Alex Takahashi:  0.11875
+	Haruko Ayabe:  0.1
+	Andrea Kwan:  0.075
+	Hammad Khan:  0.05
+	David Liu:  0.05
+	Eric Quach:  0.04375
+	Jensen Li:  0.03125
+	Jae Hoonhoon Kim:  0.03125
+	Patrick Chang:  0.03125
+	Abraham Lin:  0.025
+	Albert Lin:  0.025
+	Sammy Tong:  0.025
+	Phyllis Thai:  0.025
+	Cate Liu:  0.025
+	Sophie Wan:  0.025
+	Keien Ohta:  0.01875
+	David Cheung:  0.01875
+	Ben Lin:  0.01875
+	Eric Park:  0.01875
+	William Cheung:  0.01875
+	Grace Kim:  0.01875
+	Felicia Fang:  0.0125
+	Alice Sun:  0.0125
+	Mandy Chan:  0.0125
+	Betina Yin:  0.0125
+	Zhitong Qiu:  0.0125
+	Raymond Tong:  0.0125
+	Frances Thai:  0.0125
+	Jason Tang:  0.0125
+	Alex Wang:  0.0125
+	Brandon Ye:  0.00625
+	Wesley Snipes Trương:  0.00625
+	Emily Liu:  0.00625
+	Alice Chan:  0.00625
+	Evelyn Wang:  0.00625
+	Kevin Zhang:  0.00625
+	Arthur Liou:  0.00625
+	Roselynn Chang:  0.00625
+	Syed Adil:  0.00625
+	Christine Shih:  0.00625
+	Allen Chen:  0.00625
+	Thomas Warloe:  0.00625
+	Molly Yee:  0.00625
+	Emmy Pham:  0.00625
+	Alan Zhang:  0.00625
+
+Tiffany Tsai
+	Eric Quach:  0.192307692308
+	David Liu:  0.0769230769231
+	Alex Takahashi:  0.0769230769231
+	Betina Yin:  0.0769230769231
+	Alice Sun:  0.0769230769231
+	Andrea Kwan:  0.0769230769231
+	Haruko Ayabe:  0.0769230769231
+	Jensen Li:  0.0384615384615
+	Caroline Chen:  0.0384615384615
+	Frances Thai:  0.0384615384615
+	Sammy Tong:  0.0384615384615
+	Joey Choi:  0.0384615384615
+	Wesley Snipes Trương:  0.0384615384615
+	Cate Liu:  0.0384615384615
+	Albert Lin:  0.0384615384615
+	Ben Lin:  0.0384615384615
+
+Emmy Pham
+	Alex Takahashi:  0.0919540229885
+	William Cheung:  0.0804597701149
+	Haruko Ayabe:  0.0574712643678
+	Evelyn Wang:  0.0459770114943
+	Eric Park:  0.0459770114943
+	Andrea Kwan:  0.0459770114943
+	Grace Kim:  0.0459770114943
+	Jason Tang:  0.0459770114943
+	Patrick Chang:  0.0459770114943
+	David Liu:  0.0344827586207
+	Eric Quach:  0.0344827586207
+	Betina Yin:  0.0344827586207
+	Sophie Wan:  0.0344827586207
+	Sammy Tong:  0.0229885057471
+	Syed Adil:  0.0229885057471
+	Phyllis Thai:  0.0229885057471
+	Hammad Khan:  0.0229885057471
+	Mandy Chan:  0.0229885057471
+	Cate Liu:  0.0229885057471
+	Frances Thai:  0.0229885057471
+	Jae Hoonhoon Kim:  0.0229885057471
+	Karl Viktor Ravancho:  0.0114942528736
+	Alven Wang:  0.0114942528736
+	Abraham Lin:  0.0114942528736
+	Johnny Wang:  0.0114942528736
+	David Cheung:  0.0114942528736
+	Ben Lin:  0.0114942528736
+	Joey Choi:  0.0114942528736
+	Keien Ohta:  0.0114942528736
+	Izzy Xu:  0.0114942528736
+	Zhitong Qiu:  0.0114942528736
+	Thomas Warloe:  0.0114942528736
+	Raymond Tong:  0.0114942528736
+	Molly Yee:  0.0114942528736
+	Alex Wang:  0.0114942528736
+	Alan Zhang:  0.0114942528736
+
+Alex Takahashi
+	Haruko Ayabe:  0.123711340206
+	Andrea Kwan:  0.0721649484536
+	Grace Kim:  0.0618556701031
+	Patrick Chang:  0.0618556701031
+	Albert Lin:  0.0515463917526
+	Ben Lin:  0.0515463917526
+	Eric Park:  0.0515463917526
+	Sophie Wan:  0.0515463917526
+	David Liu:  0.0515463917526
+	Jae Hoonhoon Kim:  0.0412371134021
+	David Cheung:  0.0412371134021
+	Eric Quach:  0.0309278350515
+	William Cheung:  0.0309278350515
+	Alice Chan:  0.020618556701
+	Sammy Tong:  0.020618556701
+	Abraham Lin:  0.020618556701
+	Jensen Li:  0.020618556701
+	Arthur Liou:  0.020618556701
+	Evelyn Wang:  0.020618556701
+	Betina Yin:  0.020618556701
+	Frances Thai:  0.020618556701
+	Felicia Fang:  0.0103092783505
+	Emily Liu:  0.0103092783505
+	Alice Sun:  0.0103092783505
+	Johnny Wang:  0.0103092783505
+	Kevin Zhang:  0.0103092783505
+	Joey Choi:  0.0103092783505
+	Felicia Lin:  0.0103092783505
+	Phyllis Thai:  0.0103092783505
+	Cate Liu:  0.0103092783505
+	Raymond Tong:  0.0103092783505
+	Jason Tang:  0.0103092783505
+
+Ben Lin
+	Alex Takahashi:  0.189189189189
+	Joey Choi:  0.0900900900901
+	Haruko Ayabe:  0.0900900900901
+	Andrea Kwan:  0.0720720720721
+	Jensen Li:  0.045045045045
+	David Cheung:  0.036036036036
+	Eric Park:  0.036036036036
+	Hammad Khan:  0.036036036036
+	Betina Yin:  0.036036036036
+	Patrick Chang:  0.036036036036
+	Alice Sun:  0.027027027027
+	Cate Liu:  0.027027027027
+	Sophie Wan:  0.027027027027
+	Frances Thai:  0.027027027027
+	Sammy Tong:  0.018018018018
+	Albert Lin:  0.018018018018
+	Jae Hoonhoon Kim:  0.018018018018
+	William Cheung:  0.018018018018
+	Grace Kim:  0.018018018018
+	Keien Ohta:  0.00900900900901
+	Brandon Ye:  0.00900900900901
+	Alven Wang:  0.00900900900901
+	Felicia Fang:  0.00900900900901
+	Abraham Lin:  0.00900900900901
+	Johnny Wang:  0.00900900900901
+	Evelyn Wang:  0.00900900900901
+	Eric Quach:  0.00900900900901
+	Syed Adil:  0.00900900900901
+	Lei Ye:  0.00900900900901
+	Allen Chen:  0.00900900900901
+	Raymond Tong:  0.00900900900901
+	David Sohng:  0.00900900900901
+	Alex Wang:  0.00900900900901
+	Alan Zhang:  0.00900900900901
+
+Arthur Liou
+	David Liu:  0.119047619048
+	Abraham Lin:  0.0714285714286
+	Alex Takahashi:  0.0714285714286
+	Eric Park:  0.0714285714286
+	Andrea Kwan:  0.0714285714286
+	Haruko Ayabe:  0.0714285714286
+	Eric Quach:  0.047619047619
+	David Cheung:  0.047619047619
+	William Cheung:  0.047619047619
+	Betina Yin:  0.047619047619
+	Sophie Wan:  0.047619047619
+	Grace Kim:  0.047619047619
+	Alven Wang:  0.0238095238095
+	Alice Chan:  0.0238095238095
+	Jensen Li:  0.0238095238095
+	Ben Lin:  0.0238095238095
+	Joey Choi:  0.0238095238095
+	Felicia Lin:  0.0238095238095
+	Hammad Khan:  0.0238095238095
+	Raymond Tong:  0.0238095238095
+	David Sohng:  0.0238095238095
+	Frances Thai:  0.0238095238095
+
+Thomas Warloe
+	Alex Takahashi:  0.666666666667
+	Eric Quach:  0.333333333333
+
+David Cheung
+	Alex Takahashi:  0.121495327103
+	David Liu:  0.0934579439252
+	Joey Choi:  0.0654205607477
+	Haruko Ayabe:  0.0654205607477
+	Sophie Wan:  0.0467289719626
+	Eric Park:  0.0373831775701
+	Andrea Kwan:  0.0373831775701
+	Hammad Khan:  0.0373831775701
+	Abraham Lin:  0.0280373831776
+	Alice Sun:  0.0280373831776
+	Evelyn Wang:  0.0280373831776
+	Albert Lin:  0.0280373831776
+	William Cheung:  0.0280373831776
+	Phyllis Thai:  0.0280373831776
+	Frances Thai:  0.0280373831776
+	Jason Tang:  0.0280373831776
+	Eric Quach:  0.018691588785
+	Felicia Fang:  0.018691588785
+	Keien Ohta:  0.018691588785
+	Alven Wang:  0.018691588785
+	Raymond Tong:  0.018691588785
+	Grace Kim:  0.018691588785
+	Alex Wang:  0.018691588785
+	Patrick Chang:  0.018691588785
+	Lei Ye:  0.00934579439252
+	Zhitong Qiu:  0.00934579439252
+	Alice Chan:  0.00934579439252
+	Jensen Li:  0.00934579439252
+	Kevin Zhang:  0.00934579439252
+	Arthur Liou:  0.00934579439252
+	Ben Lin:  0.00934579439252
+	Syed Adil:  0.00934579439252
+	Felicia Lin:  0.00934579439252
+	Mandy Chan:  0.00934579439252
+	Cate Liu:  0.00934579439252
+	David Sohng:  0.00934579439252
+	Jae Hoonhoon Kim:  0.00934579439252
+
+Jae Hoonhoon Kim
+	David Liu:  0.205882352941
+	Alex Takahashi:  0.117647058824
+	Joey Choi:  0.0588235294118
+	Allen Chen:  0.0588235294118
+	David Cheung:  0.0588235294118
+	Andrea Kwan:  0.0588235294118
+	Patrick Chang:  0.0588235294118
+	Haruko Ayabe:  0.0588235294118
+	Molly Yee:  0.0294117647059
+	Ben Lin:  0.0294117647059
+	Sammy Tong:  0.0294117647059
+	Mandy Chan:  0.0294117647059
+	Keien Ohta:  0.0294117647059
+	Eric Park:  0.0294117647059
+	Alice Sun:  0.0294117647059
+	Johnny Wang:  0.0294117647059
+	Abraham Lin:  0.0294117647059
+	Felicia Fang:  0.0294117647059
+	Alan Zhang:  0.0294117647059
+
+Kevin Zhang
+	David Liu:  0.0793650793651
+	Alex Takahashi:  0.0793650793651
+	Haruko Ayabe:  0.0793650793651
+	William Cheung:  0.0634920634921
+	Eric Quach:  0.047619047619
+	Evelyn Wang:  0.047619047619
+	Alven Wang:  0.031746031746
+	Felicia Fang:  0.031746031746
+	Abraham Lin:  0.031746031746
+	Jensen Li:  0.031746031746
+	Sammy Tong:  0.031746031746
+	Joey Choi:  0.031746031746
+	Andrea Kwan:  0.031746031746
+	Mandy Chan:  0.031746031746
+	Hammad Khan:  0.031746031746
+	Betina Yin:  0.031746031746
+	Sophie Wan:  0.031746031746
+	Grace Kim:  0.031746031746
+	Patrick Chang:  0.031746031746
+	Emily Liu:  0.015873015873
+	David Cheung:  0.015873015873
+	Ben Lin:  0.015873015873
+	Syed Adil:  0.015873015873
+	Felicia Lin:  0.015873015873
+	Caroline Chen:  0.015873015873
+	Christine Shih:  0.015873015873
+	Phyllis Thai:  0.015873015873
+	Cate Liu:  0.015873015873
+	Keien Ohta:  0.015873015873
+	Raymond Tong:  0.015873015873
+	Frances Thai:  0.015873015873
+
+Jensen Li
+	Alex Takahashi:  0.112359550562
+	Eric Quach:  0.0561797752809
+	David Liu:  0.0561797752809
+	Haruko Ayabe:  0.0561797752809
+	Grace Kim:  0.0561797752809
+	Alice Sun:  0.0449438202247
+	Cate Liu:  0.0449438202247
+	Abraham Lin:  0.0337078651685
+	David Cheung:  0.0337078651685
+	Sammy Tong:  0.0337078651685
+	Eric Park:  0.0337078651685
+	William Cheung:  0.0337078651685
+	Betina Yin:  0.0337078651685
+	Patrick Chang:  0.0337078651685
+	Albert Lin:  0.0224719101124
+	Evelyn Wang:  0.0224719101124
+	Ben Lin:  0.0224719101124
+	Joey Choi:  0.0224719101124
+	Hammad Khan:  0.0224719101124
+	Keien Ohta:  0.0224719101124
+	Sophie Wan:  0.0224719101124
+	Frances Thai:  0.0224719101124
+	Jae Hoonhoon Kim:  0.0224719101124
+	Alex Wang:  0.0224719101124
+	Alven Wang:  0.0112359550562
+	Felicia Fang:  0.0112359550562
+	Kevin Zhang:  0.0112359550562
+	Arthur Liou:  0.0112359550562
+	Caroline Chen:  0.0112359550562
+	Phyllis Thai:  0.0112359550562
+	Zhitong Qiu:  0.0112359550562
+	Raymond Tong:  0.0112359550562
+	David Sohng:  0.0112359550562
+	Jason Tang:  0.0112359550562
+
+Kevin Yin
+	Alex Takahashi:  0.177215189873
+	Haruko Ayabe:  0.113924050633
+	Andrea Kwan:  0.0886075949367
+	David Liu:  0.0886075949367
+	Grace Kim:  0.0506329113924
+	Alice Sun:  0.0379746835443
+	Hammad Khan:  0.0379746835443
+	Betina Yin:  0.0379746835443
+	Patrick Chang:  0.0379746835443
+	Eric Quach:  0.0253164556962
+	Albert Lin:  0.0253164556962
+	Sammy Tong:  0.0253164556962
+	Joey Choi:  0.0253164556962
+	William Cheung:  0.0253164556962
+	Cate Liu:  0.0253164556962
+	Frances Thai:  0.0253164556962
+	Keien Ohta:  0.0126582278481
+	Abraham Lin:  0.0126582278481
+	Johnny Wang:  0.0126582278481
+	Jensen Li:  0.0126582278481
+	Jae Hoonhoon Kim:  0.0126582278481
+	Alice Chan:  0.0126582278481
+	Eric Park:  0.0126582278481
+	Phyllis Thai:  0.0126582278481
+	Allen Chen:  0.0126582278481
+	Sophie Wan:  0.0126582278481
+	Jason Tang:  0.0126582278481
+	Alex Wang:  0.0126582278481
+
+Evelyn Wang
+	Andrea Kwan:  0.0821917808219
+	Alex Takahashi:  0.0684931506849
+	Eric Park:  0.0684931506849
+	Betina Yin:  0.0684931506849
+	Cate Liu:  0.0684931506849
+	David Liu:  0.0547945205479
+	Haruko Ayabe:  0.0547945205479
+	Grace Kim:  0.0547945205479
+	Eric Quach:  0.041095890411
+	David Cheung:  0.041095890411
+	William Cheung:  0.041095890411
+	Patrick Chang:  0.041095890411
+	Hammad Khan:  0.027397260274
+	Sophie Wan:  0.027397260274
+	Jason Tang:  0.027397260274
+	Karl Viktor Ravancho:  0.013698630137
+	Alven Wang:  0.013698630137
+	Abraham Lin:  0.013698630137
+	Alice Sun:  0.013698630137
+	Alice Chan:  0.013698630137
+	Albert Lin:  0.013698630137
+	Arthur Liou:  0.013698630137
+	Sammy Tong:  0.013698630137
+	Syed Adil:  0.013698630137
+	Christine Shih:  0.013698630137
+	Mandy Chan:  0.013698630137
+	Keien Ohta:  0.013698630137
+	Izzy Xu:  0.013698630137
+	Zhitong Qiu:  0.013698630137
+	Thomas Warloe:  0.013698630137
+	Frances Thai:  0.013698630137
+	Alan Zhang:  0.013698630137
+
+Claire Lei
+	Phyllis Thai:  0.333333333333
+	Grace Kim:  0.166666666667
+	Hammad Khan:  0.166666666667
+	Alex Takahashi:  0.166666666667
+	Haruko Ayabe:  0.166666666667
+
+Albert Lin
+	Alex Takahashi:  0.189655172414
+	Andrea Kwan:  0.103448275862
+	Haruko Ayabe:  0.103448275862
+	Sammy Tong:  0.051724137931
+	Sophie Wan:  0.051724137931
+	Joey Choi:  0.0344827586207
+	Eric Park:  0.0344827586207
+	Betina Yin:  0.0344827586207
+	Patrick Chang:  0.0344827586207
+	Brandon Ye:  0.0172413793103
+	Wesley Snipes Trương:  0.0172413793103
+	Emily Liu:  0.0172413793103
+	Johnny Wang:  0.0172413793103
+	Evelyn Wang:  0.0172413793103
+	David Liu:  0.0172413793103
+	David Cheung:  0.0172413793103
+	Arthur Liou:  0.0172413793103
+	Ben Lin:  0.0172413793103
+	Eric Quach:  0.0172413793103
+	William Cheung:  0.0172413793103
+	Mandy Chan:  0.0172413793103
+	Hammad Khan:  0.0172413793103
+	Phyllis Thai:  0.0172413793103
+	Cate Liu:  0.0172413793103
+	Allen Chen:  0.0172413793103
+	Molly Yee:  0.0172413793103
+	Frances Thai:  0.0172413793103
+	Grace Kim:  0.0172413793103
+	Jason Tang:  0.0172413793103
+	Alex Wang:  0.0172413793103
+
+Nina Hu
+	Alex Takahashi:  0.12
+	Patrick Chang:  0.12
+	David Liu:  0.08
+	Andrea Kwan:  0.08
+	Haruko Ayabe:  0.08
+	Cate Liu:  0.08
+	Alice Chan:  0.06
+	Sammy Tong:  0.04
+	Karl Viktor Ravancho:  0.02
+	Alven Wang:  0.02
+	Felicia Fang:  0.02
+	Emily Liu:  0.02
+	Johnny Wang:  0.02
+	David Cheung:  0.02
+	Ben Lin:  0.02
+	Eric Park:  0.02
+	William Cheung:  0.02
+	Evelyn Wang:  0.02
+	Phyllis Thai:  0.02
+	Sophie Wan:  0.02
+	Raymond Tong:  0.02
+	Grace Kim:  0.02
+	Jae Hoonhoon Kim:  0.02
+	Alex Wang:  0.02
+	Alan Zhang:  0.02
+
+Sammy Tong
+	David Liu:  0.0892857142857
+	Alex Takahashi:  0.0714285714286
+	Eric Quach:  0.0535714285714
+	Alice Chan:  0.0535714285714
+	Eric Park:  0.0535714285714
+	Andrea Kwan:  0.0535714285714
+	Haruko Ayabe:  0.0535714285714
+	Cate Liu:  0.0535714285714
+	Jason Tang:  0.0535714285714
+	Alice Sun:  0.0357142857143
+	Jensen Li:  0.0357142857143
+	Evelyn Wang:  0.0357142857143
+	Mandy Chan:  0.0357142857143
+	Sophie Wan:  0.0357142857143
+	Frances Thai:  0.0357142857143
+	Grace Kim:  0.0357142857143
+	Jae Hoonhoon Kim:  0.0357142857143
+	Wesley Snipes Trương:  0.0178571428571
+	Emily Liu:  0.0178571428571
+	Kevin Zhang:  0.0178571428571
+	Ben Lin:  0.0178571428571
+	Syed Adil:  0.0178571428571
+	Phyllis Thai:  0.0178571428571
+	Hammad Khan:  0.0178571428571
+	Betina Yin:  0.0178571428571
+	Zhitong Qiu:  0.0178571428571
+	Alan Zhang:  0.0178571428571
+
+Joanna Chang
+	Eric Quach:  0.166666666667
+	Sammy Tong:  0.0714285714286
+	Haruko Ayabe:  0.0714285714286
+	Jae Hoonhoon Kim:  0.047619047619
+	Alex Takahashi:  0.047619047619
+	Andrea Kwan:  0.047619047619
+	Mandy Chan:  0.047619047619
+	Grace Kim:  0.047619047619
+	Patrick Chang:  0.047619047619
+	Brandon Ye:  0.0238095238095
+	Alven Wang:  0.0238095238095
+	Alice Sun:  0.0238095238095
+	Jensen Li:  0.0238095238095
+	Albert Lin:  0.0238095238095
+	David Cheung:  0.0238095238095
+	Eric Park:  0.0238095238095
+	Phyllis Thai:  0.0238095238095
+	Betina Yin:  0.0238095238095
+	Cate Liu:  0.0238095238095
+	Keien Ohta:  0.0238095238095
+	Wesley Snipes Trương:  0.0238095238095
+	Sophie Wan:  0.0238095238095
+	Raymond Tong:  0.0238095238095
+	Molly Yee:  0.0238095238095
+	Kenneth Lui:  0.0238095238095
+	David Liu:  0.0238095238095
+
+Alice Chan
+	Haruko Ayabe:  0.130434782609
+	Patrick Chang:  0.115942028986
+	Andrea Kwan:  0.0869565217391
+	Grace Kim:  0.0724637681159
+	David Liu:  0.0579710144928
+	Alex Takahashi:  0.0434782608696
+	William Cheung:  0.0434782608696
+	Cate Liu:  0.0434782608696
+	Sammy Tong:  0.0289855072464
+	Abraham Lin:  0.0289855072464
+	David Cheung:  0.0289855072464
+	Jason Tang:  0.0289855072464
+	Karl Viktor Ravancho:  0.0144927536232
+	Zhitong Qiu:  0.0144927536232
+	Felicia Fang:  0.0144927536232
+	Emily Liu:  0.0144927536232
+	Betina Yin:  0.0144927536232
+	Alice Sun:  0.0144927536232
+	Johnny Wang:  0.0144927536232
+	Jensen Li:  0.0144927536232
+	Evelyn Wang:  0.0144927536232
+	Jae Hoonhoon Kim:  0.0144927536232
+	Ben Lin:  0.0144927536232
+	Eric Quach:  0.0144927536232
+	Hammad Khan:  0.0144927536232
+	Phyllis Thai:  0.0144927536232
+	Thomas Warloe:  0.0144927536232
+	Keien Ohta:  0.0144927536232
+	Izzy Xu:  0.0144927536232
+	Sophie Wan:  0.0144927536232
+	Raymond Tong:  0.0144927536232
+	Molly Yee:  0.0144927536232
+
+Alice Sun
+	Haruko Ayabe:  0.106194690265
+	Alex Takahashi:  0.0973451327434
+	David Liu:  0.0796460176991
+	Andrea Kwan:  0.070796460177
+	Eric Park:  0.0442477876106
+	Eric Quach:  0.0353982300885
+	Frances Thai:  0.0353982300885
+	Grace Kim:  0.0353982300885
+	Patrick Chang:  0.0353982300885
+	Alice Chan:  0.0265486725664
+	Albert Lin:  0.0265486725664
+	David Cheung:  0.0265486725664
+	William Cheung:  0.0265486725664
+	Hammad Khan:  0.0265486725664
+	Cate Liu:  0.0265486725664
+	Keien Ohta:  0.0265486725664
+	Abraham Lin:  0.0176991150442
+	Evelyn Wang:  0.0176991150442
+	Jensen Li:  0.0176991150442
+	Joey Choi:  0.0176991150442
+	Betina Yin:  0.0176991150442
+	Sophie Wan:  0.0176991150442
+	Jason Tang:  0.0176991150442
+	Alex Wang:  0.0176991150442
+	Lei Ye:  0.00884955752212
+	Brandon Ye:  0.00884955752212
+	Zhitong Qiu:  0.00884955752212
+	Felicia Fang:  0.00884955752212
+	Alice Sun:  0.00884955752212
+	Kevin Zhang:  0.00884955752212
+	Arthur Liou:  0.00884955752212
+	Sammy Tong:  0.00884955752212
+	Mandy Chan:  0.00884955752212
+	Phyllis Thai:  0.00884955752212
+	Izzy Xu:  0.00884955752212
+	Alven Wang:  0.00884955752212
+	Raymond Tong:  0.00884955752212
+	Kenneth Lui:  0.00884955752212
+	Jae Hoonhoon Kim:  0.00884955752212
+
+Emily Liu
+	Alex Takahashi:  0.164383561644
+	Haruko Ayabe:  0.123287671233
+	Andrea Kwan:  0.0639269406393
+	David Liu:  0.0456621004566
+	Eric Park:  0.041095890411
+	Grace Kim:  0.041095890411
+	Patrick Chang:  0.041095890411
+	Eric Quach:  0.0365296803653
+	Joey Choi:  0.027397260274
+	Alice Sun:  0.027397260274
+	Albert Lin:  0.027397260274
+	Jae Hoonhoon Kim:  0.027397260274
+	Hammad Khan:  0.027397260274
+	Evelyn Wang:  0.0228310502283
+	Jensen Li:  0.0228310502283
+	Cate Liu:  0.0228310502283
+	Phyllis Thai:  0.0182648401826
+	Alven Wang:  0.013698630137
+	Abraham Lin:  0.013698630137
+	Kevin Zhang:  0.013698630137
+	Sammy Tong:  0.013698630137
+	William Cheung:  0.013698630137
+	Betina Yin:  0.013698630137
+	Sophie Wan:  0.013698630137
+	Alex Wang:  0.013698630137
+	Felicia Fang:  0.00913242009132
+	David Cheung:  0.00913242009132
+	Arthur Liou:  0.00913242009132
+	Raymond Tong:  0.00913242009132
+	Frances Thai:  0.00913242009132
+	Jason Tang:  0.00913242009132
+	Lei Ye:  0.00456621004566
+	Johnny Wang:  0.00456621004566
+	Ben Lin:  0.00456621004566
+	Roselynn Chang:  0.00456621004566
+	Mandy Chan:  0.00456621004566
+	Caroline Chen:  0.00456621004566
+	Allen Chen:  0.00456621004566
+	Thomas Warloe:  0.00456621004566
+	Molly Yee:  0.00456621004566
+	Kenneth Lui:  0.00456621004566
+	Keien Ohta:  0.00456621004566
+	Alan Zhang:  0.00456621004566
+
+Triniti Brodi
+	Haruko Ayabe:  0.146341463415
+	Andrea Kwan:  0.0975609756098
+	Patrick Chang:  0.0975609756098
+	Alex Takahashi:  0.0731707317073
+	Eric Quach:  0.0487804878049
+	Alice Sun:  0.0487804878049
+	Jensen Li:  0.0487804878049
+	William Cheung:  0.0487804878049
+	Alice Chan:  0.0243902439024
+	Zhitong Qiu:  0.0243902439024
+	Felicia Fang:  0.0243902439024
+	Betina Yin:  0.0243902439024
+	Johnny Wang:  0.0243902439024
+	David Liu:  0.0243902439024
+	Ben Lin:  0.0243902439024
+	Thomas Warloe:  0.0243902439024
+	Cate Liu:  0.0243902439024
+	Sophie Wan:  0.0243902439024
+	Raymond Tong:  0.0243902439024
+	Molly Yee:  0.0243902439024
+	Frances Thai:  0.0243902439024
+	Grace Kim:  0.0243902439024
+	Jason Tang:  0.0243902439024
+	Alan Zhang:  0.0243902439024
+
+Felicia Fang
+	Alex Takahashi:  0.14
+	Eric Park:  0.06
+	Haruko Ayabe:  0.06
+	Mandy Chan:  0.06
+	Patrick Chang:  0.06
+	Keien Ohta:  0.04
+	Kevin Zhang:  0.04
+	Phyllis Thai:  0.04
+	Cate Liu:  0.04
+	Sophie Wan:  0.04
+	Frances Thai:  0.04
+	David Liu:  0.04
+	Sammy Tong:  0.02
+	Alven Wang:  0.02
+	Abraham Lin:  0.02
+	Emily Liu:  0.02
+	Alice Sun:  0.02
+	Albert Lin:  0.02
+	Jae Hoonhoon Kim:  0.02
+	David Cheung:  0.02
+	Arthur Liou:  0.02
+	Ben Lin:  0.02
+	Eric Quach:  0.02
+	Joey Choi:  0.02
+	William Cheung:  0.02
+	Betina Yin:  0.02
+	Allen Chen:  0.02
+	Molly Yee:  0.02
+	Alex Wang:  0.02
+
+Wesley Snipes Trương
+	Haruko Ayabe:  0.10843373494
+	Alex Takahashi:  0.0963855421687
+	Andrea Kwan:  0.0843373493976
+	Eric Quach:  0.0602409638554
+	Albert Lin:  0.0602409638554
+	Grace Kim:  0.0481927710843
+	Patrick Chang:  0.0481927710843
+	David Cheung:  0.0361445783133
+	Eric Park:  0.0361445783133
+	Hammad Khan:  0.0361445783133
+	Betina Yin:  0.0361445783133
+	Sophie Wan:  0.0361445783133
+	Jensen Li:  0.0240963855422
+	William Cheung:  0.0240963855422
+	Mandy Chan:  0.0240963855422
+	Keien Ohta:  0.0240963855422
+	Raymond Tong:  0.0240963855422
+	Frances Thai:  0.0240963855422
+	Jason Tang:  0.0240963855422
+	Lei Ye:  0.0120481927711
+	Brandon Ye:  0.0120481927711
+	Alven Wang:  0.0120481927711
+	Abraham Lin:  0.0120481927711
+	Emily Liu:  0.0120481927711
+	Alice Sun:  0.0120481927711
+	Alice Chan:  0.0120481927711
+	Kevin Zhang:  0.0120481927711
+	Jae Hoonhoon Kim:  0.0120481927711
+	Cate Liu:  0.0120481927711
+	Thomas Warloe:  0.0120481927711
+	David Sohng:  0.0120481927711
+
+Karl Viktor Ravancho
+	David Liu:  0.135135135135
+	Patrick Chang:  0.108108108108
+	Haruko Ayabe:  0.108108108108
+	Alex Takahashi:  0.0810810810811
+	Alice Chan:  0.0810810810811
+	Zhitong Qiu:  0.0540540540541
+	Joey Choi:  0.0540540540541
+	Jae Hoonhoon Kim:  0.0540540540541
+	Mandy Chan:  0.027027027027
+	Eric Park:  0.027027027027
+	Ben Lin:  0.027027027027
+	Izzy Xu:  0.027027027027
+	Grace Kim:  0.027027027027
+	Keien Ohta:  0.027027027027
+	Abraham Lin:  0.027027027027
+	Alven Wang:  0.027027027027
+	Johnny Wang:  0.027027027027
+	Jason Tang:  0.027027027027
+	Andrea Kwan:  0.027027027027
+	Thomas Warloe:  0.027027027027
+
+Jackie Kim
+	David Liu:  0.204081632653
+	Alex Takahashi:  0.102040816327
+	Haruko Ayabe:  0.102040816327
+	David Cheung:  0.0612244897959
+	Alice Sun:  0.0612244897959
+	Cate Liu:  0.0408163265306
+	Eric Park:  0.0408163265306
+	William Cheung:  0.0408163265306
+	Keien Ohta:  0.0408163265306
+	Alex Wang:  0.0408163265306
+	Andrea Kwan:  0.0408163265306
+	Patrick Chang:  0.0408163265306
+	Lei Ye:  0.0204081632653
+	Kevin Zhang:  0.0204081632653
+	Evelyn Wang:  0.0204081632653
+	Frances Thai:  0.0204081632653
+	Joey Choi:  0.0204081632653
+	Mandy Chan:  0.0204081632653
+	Grace Kim:  0.0204081632653
+	Alice Chan:  0.0204081632653
+	Jason Tang:  0.0204081632653
+
+Michelle Chen
+	David Cheung:  0.181818181818
+	Haruko Ayabe:  0.181818181818
+	Mandy Chan:  0.0909090909091
+	Kevin Zhang:  0.0909090909091
+	Sammy Tong:  0.0909090909091
+	Eric Quach:  0.0909090909091
+	Eric Park:  0.0909090909091
+	Abraham Lin:  0.0909090909091
+	Keien Ohta:  0.0909090909091
+
+Eric Quach
+	Alex Takahashi:  0.12
+	Andrea Kwan:  0.08
+	Haruko Ayabe:  0.08
+	Eric Park:  0.06
+	Phyllis Thai:  0.06
+	Grace Kim:  0.06
+	David Liu:  0.06
+	Abraham Lin:  0.04
+	Evelyn Wang:  0.04
+	David Cheung:  0.04
+	Brandon Ye:  0.02
+	Sammy Tong:  0.02
+	Wesley Snipes Trương:  0.02
+	Betina Yin:  0.02
+	Kevin Yin:  0.02
+	Kevin Zhang:  0.02
+	Jae Hoonhoon Kim:  0.02
+	Arthur Liou:  0.02
+	Joey Choi:  0.02
+	Caroline Chen:  0.02
+	Hammad Khan:  0.02
+	Mandy Chan:  0.02
+	Thomas Warloe:  0.02
+	Cate Liu:  0.02
+	Allen Chen:  0.02
+	Sophie Wan:  0.02
+	Raymond Tong:  0.02
+	Frances Thai:  0.02
+
+Christine Cheung
+	David Liu:  0.241379310345
+	Alice Sun:  0.137931034483
+	David Cheung:  0.103448275862
+	Frances Thai:  0.0689655172414
+	Eric Quach:  0.0689655172414
+	Haruko Ayabe:  0.0689655172414
+	Sammy Tong:  0.0344827586207
+	Keien Ohta:  0.0344827586207
+	Alice Chan:  0.0344827586207
+	Lei Ye:  0.0344827586207
+	Allen Chen:  0.0344827586207
+	Zhitong Qiu:  0.0344827586207
+	Jensen Li:  0.0344827586207
+	Patrick Chang:  0.0344827586207
+	Andrea Kwan:  0.0344827586207
+
+Brandon Ye
+	Eric Quach:  0.375
+	Allen Chen:  0.125
+	Joey Choi:  0.0625
+	Frances Thai:  0.0625
+	Christine Shih:  0.0625
+	Mandy Chan:  0.0625
+	Betina Yin:  0.0625
+	Cate Liu:  0.0625
+	Sophie Wan:  0.0625
+	Patrick Chang:  0.0625
+
+Victoria Padilla
+	Alex Takahashi:  0.170212765957
+	Andrea Kwan:  0.148936170213
+	Cate Liu:  0.0851063829787
+	Jae Hoonhoon Kim:  0.0851063829787
+	David Liu:  0.0425531914894
+	David Cheung:  0.0425531914894
+	Haruko Ayabe:  0.0425531914894
+	Betina Yin:  0.0425531914894
+	Grace Kim:  0.0425531914894
+	Eric Quach:  0.0212765957447
+	Johnny Wang:  0.0212765957447
+	Ben Lin:  0.0212765957447
+	Sammy Tong:  0.0212765957447
+	Joey Choi:  0.0212765957447
+	Eric Park:  0.0212765957447
+	Felicia Lin:  0.0212765957447
+	Mandy Chan:  0.0212765957447
+	Keien Ohta:  0.0212765957447
+	Sophie Wan:  0.0212765957447
+	Frances Thai:  0.0212765957447
+	Jason Tang:  0.0212765957447
+	Patrick Chang:  0.0212765957447
+	Alan Zhang:  0.0212765957447
+
+Gary Huang
+	Alex Takahashi:  0.121546961326
+	Haruko Ayabe:  0.0939226519337
+	Andrea Kwan:  0.0718232044199
+	Eric Quach:  0.0441988950276
+	Joey Choi:  0.0386740331492
+	Cate Liu:  0.0386740331492
+	Grace Kim:  0.0386740331492
+	Patrick Chang:  0.0386740331492
+	Eric Park:  0.0331491712707
+	Abraham Lin:  0.0276243093923
+	Albert Lin:  0.0276243093923
+	Frances Thai:  0.0276243093923
+	David Liu:  0.0276243093923
+	Jason Tang:  0.0276243093923
+	Alice Sun:  0.0220994475138
+	William Cheung:  0.0220994475138
+	Phyllis Thai:  0.0220994475138
+	Keien Ohta:  0.0165745856354
+	Kevin Zhang:  0.0165745856354
+	David Cheung:  0.0165745856354
+	Ben Lin:  0.0165745856354
+	Sophie Wan:  0.0165745856354
+	Johnny Wang:  0.0110497237569
+	Jensen Li:  0.0110497237569
+	Evelyn Wang:  0.0110497237569
+	Jae Hoonhoon Kim:  0.0110497237569
+	Syed Adil:  0.0110497237569
+	Mandy Chan:  0.0110497237569
+	Hammad Khan:  0.0110497237569
+	Betina Yin:  0.0110497237569
+	Zhitong Qiu:  0.0110497237569
+	Wesley Snipes Trương:  0.00552486187845
+	Felicia Fang:  0.00552486187845
+	Emily Liu:  0.00552486187845
+	Kevin Yin:  0.00552486187845
+	Arthur Liou:  0.00552486187845
+	Sammy Tong:  0.00552486187845
+	Roselynn Chang:  0.00552486187845
+	Alice Chan:  0.00552486187845
+	Felicia Lin:  0.00552486187845
+	Caroline Chen:  0.00552486187845
+	Christine Shih:  0.00552486187845
+	Lei Ye:  0.00552486187845
+	Allen Chen:  0.00552486187845
+	Molly Yee:  0.00552486187845
+	Kenneth Lui:  0.00552486187845
+	Alex Wang:  0.00552486187845
+	Alan Zhang:  0.00552486187845
+
+Sophie Wan
+	Haruko Ayabe:  0.136363636364
+	Evelyn Wang:  0.0909090909091
+	Alex Takahashi:  0.0909090909091
+	Raymond Tong:  0.0909090909091
+	Kevin Zhang:  0.0454545454545
+	Keien Ohta:  0.0454545454545
+	David Cheung:  0.0454545454545
+	Eric Quach:  0.0454545454545
+	Joey Choi:  0.0454545454545
+	Thomas Warloe:  0.0454545454545
+	Cate Liu:  0.0454545454545
+	Eric Park:  0.0454545454545
+	Johnny Wang:  0.0454545454545
+	Jason Tang:  0.0454545454545
+	Andrea Kwan:  0.0454545454545
+	Jensen Li:  0.0454545454545
+	Patrick Chang:  0.0454545454545
+

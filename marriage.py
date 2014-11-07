@@ -5,7 +5,7 @@ import pickle
 from Queue import *
 from get_newsfeed import *
 from operator import itemgetter
-ROOT = "fall14marriage/"
+ROOT = "fa14/"
 def get_like_ranks(liked_people):
 	ranks = {}
 	total_likes = len(liked_people)
