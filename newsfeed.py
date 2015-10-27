@@ -20,7 +20,7 @@ def get_newsfeed_list():
 	groups = graph.get_object("me/groups")
 	PBL_GROUP_ID = -1
 	for group in groups['data']:
-		if group['name'] == 'Berkeley PBL Fall 2014':
+		if group['name'] == 'Berkeley PBL Spring 2015':
 			PBL_GROUP_ID = group['id']
 	
 	# pbl_group_posts = graph.get_object(str(PBL_GROUP_ID)+"/feed")
@@ -42,7 +42,37 @@ def get_newsfeed_list():
 		pbl_group_posts = json.loads(urllib2.urlopen(next_url).read())
 	return newsfeed
 
-# 
+def get_people(newsfeed):
+	names = set()
+	for post in newsfeed:
+		author_id = post['from']['id']
+		name = post['from']['name']
+		names.add(name)
+		if 'comments' in post.keys():
+			for comment in post['comments']['data']:
+				author_id = comment['from']['id']
+				name = comment['from']['name']
+				names.add(name)
+		if 'likes' in post.keys():
+			for like in post['likes']['data']:
+				author_id = like['id']
+				name = like['name']
+				names.add(name)
+	with open('names.txt', 'w') as outfile:
+		for name in names:
+			outfile.write(name)
+			outfile.write('\n')
+	""" you need to manually filter males and femlaes"""
+# 	males = set()
+# 	with open('males.txt', 'r') as infile:
+# 		for line in infile:
+# 			males.add(line.replace('\n', ''))
+# 	with open('females.txt', 'w') as outfile:
+# 		for name in names:
+# 			if name not in males:
+# 				outfile.write(name)
+# 				outfile.write('\n')
+# # 
 # gets you the data on who did what
 #
 def parse_newsfeed(newsfeed):
@@ -139,6 +169,8 @@ if not pickled:
 else:
 	newsfeed = pickle.load( open( "pickle.p", "rb" ) )
 
+get_people(newsfeed)
+
 def load_genders():
 	males = []
 	with(open("males.txt", "r")) as mfile:
@@ -233,8 +265,8 @@ for person in data['likes'].keys():
 # def stable_marriage():
 
 
-MALES = load_genders()["females"]
-FEMALES = load_genders()["males"]
+MALES = load_genders()["males"]
+FEMALES = load_genders()["females"]
 
 
 def get_index_in_list(item, thelist):
@@ -294,7 +326,7 @@ def do_round(assignments, m_preferences, f_preferences):
 	return {"assignments":assignments, "m_preferences":m_preferences}
 
 assignments = stable_marriage(data)
-with open("spring/female_opt_stable_marriage.txt", "w") as outfile:
+with open("spring/male_opt_stable_marriage.txt", "w") as outfile:
 	text = ""
 	for assignment in assignments.keys():
 		text+= assignment+" and "+assignments[assignment]+"\n"

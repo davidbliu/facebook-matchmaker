@@ -1,5 +1,5 @@
 Alex Wang
-Patrick Chang
+Joseph Chiang
 Kevin Li
 Kevin Lee
 Hammad Khan
@@ -33,7 +33,7 @@ Joanna Chang
 Riddhi Dalal
 Richard Lu
 Elizabeth Jiang
-Vishnavi Paruchuri
+Winky Wong
 David Cheung
 Kevin Zhang
 Rotciv Yuan
@@ -41,14 +41,13 @@ David Zhang
 Satoko Ayabe
 Annie Yueyi Wang
 Alice Sun
-Alyssa Gan
+Vishnavi Paruchuri
 Eric Quach
 Melodi Au
 Brandon Ye
-Michelle Chen
+Gary Huang
 Mingde Chong
-Joseph Chiang
-Winky Wong
+Patrick Chang
 Chen Meng
 Molly Yee
 Elizabeth Gove
@@ -71,6 +70,7 @@ Sonia Liou
 Julie Xiao
 Cate Liu
 Rouhin Ghosh
+Alyssa Gan
 Phyllis Thai
 Melinda An
 Christine Cheung
@@ -87,4 +87,4 @@ David Liu
 Kevin Yin
 Emily Liu
 Triniti Brodi
-Gary Huang
+Michelle Chen

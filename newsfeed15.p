@@ -1334,7 +1334,7 @@ VArnold Chan
 p695
 ssVlike_count
 p696
-I4
+I3
 sVcan_remove
 p697
 I00
@@ -1367,7 +1367,7 @@ VHammad Khan
 p711
 ssVlike_count
 p712
-I6
+I5
 sVcan_remove
 p713
 I00

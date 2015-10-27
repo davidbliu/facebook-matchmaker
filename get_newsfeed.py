@@ -23,7 +23,7 @@ def get_newsfeed_list():
 	groups = graph.get_object("me/groups")
 	PBL_GROUP_ID = -1
 	for group in groups['data']:
-		if group['name'] == "Berkeley PBL Fall 2014": #'Berkeley PBL Fall 2014':
+		if group['name'] == "Berkeley PBL Spring 2015": #'Berkeley PBL Fall 2014':
 			PBL_GROUP_ID = group['id']
 	# PBL_GROUP_ID="648338708594339"
 	fb_url_suffix = "?access_token="+oauth_access_token
@@ -134,11 +134,17 @@ def parse_newsfeed(newsfeed):
 
 	return {"posts": posts, "comments": comments, "likes": likes, 'popular':popular, 'posts_and_comments':posts_and_comments}
 
+def get_newsfeed_and_save():
+	newsfeed = get_newsfeed_list()
+	with open('newsfeed15.p', 'w') as outfile:
+		pickle.dump(newsfeed, outfile)
 
 if __name__ == "__main__":
-	if True:
-		newsfeed = get_newsfeed_list()
-		pickle.dump( newsfeed, open( "pickle.p", "wb" ) )
-	else:
-		newsfeed = pickle.load( open( "pickle.p", "rb" ) )
-	get_people(newsfeed)
+	# newfeed = get_newsfeed_list()
+	get_newsfeed_and_save()
+	# if True:
+	# 	newsfeed = get_newsfeed_list()
+	# 	pickle.dump( newsfeed, open( "pickle.p", "wb" ) )
+	# else:
+	# 	newsfeed = pickle.load( open( "pickle.p", "rb" ) )
+	# get_people(newsfeed)
