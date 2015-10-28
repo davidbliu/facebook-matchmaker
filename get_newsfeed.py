@@ -7,13 +7,14 @@ from Queue import *
 
 data = yaml.load(open('config.yaml', 'r'))
 oauth_access_token = data['oauth_access_token']
+print 'access token: '+oauth_access_token
 """
 you get get access token here
 https://developers.facebook.com/tools/explorer/?method=GET&path=me?fields=id,name&version=v2.0
 """
 
-print 'grabbing your newsfeed...'
 graph = facebook.GraphAPI(oauth_access_token)
+print 'grabbing your newsfeed...'
 
 #
 # should also populate males and females list
@@ -21,11 +22,13 @@ graph = facebook.GraphAPI(oauth_access_token)
 def get_newsfeed_list():
 	newsfeed = []
 	groups = graph.get_object("me/groups")
+        print 'groups'
 	PBL_GROUP_ID = -1
 	for group in groups['data']:
-		if group['name'] == "Berkeley PBL Spring 2015": #'Berkeley PBL Fall 2014':
+		if group['name'] == "Berkeley PBL Fall 2015": #'Berkeley PBL Fall 2014':
 			PBL_GROUP_ID = group['id']
 	# PBL_GROUP_ID="648338708594339"
+        print 'this is the group id: '+PBL_GROUP_ID
 	fb_url_suffix = "?access_token="+oauth_access_token
 	fb_url_prefix = "https://graph.facebook.com/"
 	pbl_group_posts = urllib2.urlopen(fb_url_prefix+PBL_GROUP_ID+"/feed"+fb_url_suffix).read()
