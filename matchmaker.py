@@ -85,8 +85,8 @@ with open("fa15/percent_liked_rank.txt", "w") as outfile:
 STABLE MARRIAGE CODE BELOW
 """
 
-MALES = processor.load_genders()["males"]
-FEMALES = processor.load_genders()["females"]
+MALES = processor.load_genders()["females"]
+FEMALES = processor.load_genders()["males"]
 
 
 def get_index_in_list(item, thelist):
@@ -146,7 +146,7 @@ def do_round(assignments, m_preferences, f_preferences):
     return {"assignments":assignments, "m_preferences":m_preferences}
 
 assignments = stable_marriage(data)
-with open("fa15/male_opt_stable_marriage.txt", "w") as outfile:
+with open("fa15/female_opt_stable_marriage.txt", "w") as outfile:
     text = ""
     for assignment in assignments.keys():
         text+= assignment+" and "+assignments[assignment]+"\n"
